@@ -47,7 +47,7 @@
 &lt;li>Developed and refactored internal tools using modern web technologies with &lt;strong>React/Redux&lt;/strong>&lt;/li>
 &lt;li>Assisted the DevOps team to migrate legacy applications to &lt;strong>AWS&lt;/strong> using &lt;strong>CloudFormation&lt;/strong>&lt;/li>
 &lt;/ul>
-&lt;!-- raw HTML omitted -->
+&lt;!--- - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.--->
 &lt;ul>
 &lt;li>Collaborated with multi-national and cross-functional teams using &lt;strong>Agile&lt;/strong> methodologies&lt;/li>
 &lt;/ul>
