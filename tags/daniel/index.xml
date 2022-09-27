@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>https://danielvelara.github.io/</link><description>Recent content on danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Daniel</title><link>https://danielvelara.github.io/posts/daniel/</link><pubDate>Mon, 26 Sep 2022 21:14:42 -0500</pubDate><guid>https://danielvelara.github.io/posts/daniel/</guid><description>Other Elements — abbr, sub, sup, kbd, mark GIF is a bitmap image format.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>daniel on danielvelara</title><link>https://danielvelara.github.io/tags/daniel/</link><description>Recent content in daniel on danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 21:14:42 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/tags/daniel/index.xml" rel="self" type="application/rss+xml"/><item><title>Daniel</title><link>https://danielvelara.github.io/posts/daniel/</link><pubDate>Mon, 26 Sep 2022 21:14:42 -0500</pubDate><guid>https://danielvelara.github.io/posts/daniel/</guid><description>Other Elements — abbr, sub, sup, kbd, mark GIF is a bitmap image format.
 H2O
 Xn + Yn = Zn
 Press CTRL+ALT+Delete to end the session.
@@ -82,15 +82,4 @@ from fastapi import FastAPI app = FastAPI() @app.get(&amp;#39;/&amp;#39;) async 
 &lt;p>This is not a lie&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></content></item><item><title>Diego</title><link>https://danielvelara.github.io/posts/diego/</link><pubDate>Mon, 26 Sep 2022 21:14:24 -0500</pubDate><guid>https://danielvelara.github.io/posts/diego/</guid><description>Las galletas del Costco Hola, soy Diego y nunca he probado una galleta de Costco.
-La razón es muy simple: No hay un Costco en mi ciudad :(</description><content>&lt;h1 id="las-galletas-del-costco">Las galletas del Costco&lt;/h1>
-&lt;p>Hola, soy Diego y nunca he probado una galleta de Costco.&lt;/p>
-&lt;p>La razón es muy simple: No hay un Costco en mi ciudad :(&lt;/p></content></item><item><title>Abi</title><link>https://danielvelara.github.io/posts/abi/</link><pubDate>Mon, 26 Sep 2022 21:11:19 -0500</pubDate><guid>https://danielvelara.github.io/posts/abi/</guid><description>Los erizos son animalitos mamiferos No son roedores El erizo posee antre 5000 y 7000 púas que emplea como técnica de defensa. Los músculos alojados en su espalda son los que permiten que el animalito saque o esconda sus púas. Cada ericito tiene su personalidad
-¿Qué no deben comer? Los erizos no deben comer semillas, uvas pasas, aguacate, cebolla, ajo, maís, arroz, elote, lácteos, chocolate, entre otros. Les encantan los roedores</description><content>&lt;h1 id="los-erizos-son-animalitos-mamiferos">Los erizos son animalitos mamiferos&lt;/h1>
-&lt;p>&lt;strong>&lt;em>No son roedores&lt;/em>&lt;/strong>
-El erizo posee antre 5000 y 7000 púas que emplea como técnica de defensa.
-Los músculos alojados en su espalda son los que permiten que el animalito saque o esconda sus púas.
-&lt;em>Cada ericito tiene su personalidad&lt;/em>&lt;/p>
-&lt;h2 id="qué-no-deben-comer">¿Qué no deben comer?&lt;/h2>
-&lt;p>Los erizos no deben comer semillas, uvas pasas, aguacate, cebolla, ajo, maís, arroz, elote, lácteos, chocolate, entre otros.
-&lt;strong>&lt;em>Les encantan los roedores&lt;/em>&lt;/strong>&lt;/p></content></item><item><title>Autobiography</title><link>https://danielvelara.github.io/autobiography/</link><pubDate>Wed, 21 Sep 2022 22:44:59 -0500</pubDate><guid>https://danielvelara.github.io/autobiography/</guid><description>Autobiography</description><content>&lt;h1 id="autobiography">Autobiography&lt;/h1></content></item></channel></rss>
+&lt;/div></content></item></channel></rss>
