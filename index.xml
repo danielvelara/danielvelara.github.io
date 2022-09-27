@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>https://danielvelara.github.io/</link><description>Recent content on danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Daniel</title><link>https://danielvelara.github.io/posts/daniel/</link><pubDate>Mon, 26 Sep 2022 21:14:42 -0500</pubDate><guid>https://danielvelara.github.io/posts/daniel/</guid><description>Other Elements — abbr, sub, sup, kbd, mark GIF is a bitmap image format.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>https://danielvelara.github.io/</link><description>Recent content on danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Alma</title><link>https://danielvelara.github.io/posts/alma/</link><pubDate>Mon, 26 Sep 2022 21:19:52 -0500</pubDate><guid>https://danielvelara.github.io/posts/alma/</guid><description>ComunidApp Escenario: Mundo Post-Apocalipsis, en dónde la humanidad sobrevivió pero la sociedad no es como antes… Descripción: ComunidApp es una WebApp en la que los usuarios puedan comunicarse para intercambiar productos y servicios a nivel local/comunidad.
+Metas: Fortalecer los lazos comunitarios Crear comunidad entre los colonos Evitar el desperdicio de productos Aprovechar los servicios que la comunidad puede llegar a ofrecer Constraints: Servidor que genera su propia electricidad Raspberry con powerbank Bajo consumo de datos Red local Router con powerbank Sólo tiene acceso a 1 hora de internet al día</description><content>&lt;h1 id="comunidapp">ComunidApp&lt;/h1>
+&lt;p>Escenario: Mundo Post-Apocalipsis, en dónde la humanidad sobrevivió pero la sociedad no es como antes…
+Descripción: ComunidApp es una WebApp en la que los usuarios puedan comunicarse para intercambiar productos y servicios a nivel local/comunidad.&lt;/p>
+&lt;ul>
+&lt;li>Metas:
+&lt;ul>
+&lt;li>Fortalecer los lazos comunitarios&lt;/li>
+&lt;li>Crear comunidad entre los colonos&lt;/li>
+&lt;li>Evitar el desperdicio de productos&lt;/li>
+&lt;li>Aprovechar los servicios que la comunidad puede llegar a ofrecer&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Constraints:
+&lt;ul>
+&lt;li>Servidor que genera su propia electricidad&lt;/li>
+&lt;li>Raspberry con powerbank&lt;/li>
+&lt;li>Bajo consumo de datos&lt;/li>
+&lt;li>Red local&lt;/li>
+&lt;li>Router con powerbank&lt;/li>
+&lt;li>Sólo tiene acceso a 1 hora de internet al día&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></content></item><item><title>Daniel</title><link>https://danielvelara.github.io/posts/daniel/</link><pubDate>Mon, 26 Sep 2022 21:14:42 -0500</pubDate><guid>https://danielvelara.github.io/posts/daniel/</guid><description>Other Elements — abbr, sub, sup, kbd, mark GIF is a bitmap image format.
 H2O
 Xn + Yn = Zn
 Press CTRL+ALT+Delete to end the session.
