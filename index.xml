@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>https://danielvelara.github.io/</link><description>danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Latex</title><link>https://danielvelara.github.io/posts/latex/</link><pubDate>Mon, 26 Sep 2022 17:54:46 -0500</pubDate><guid>https://danielvelara.github.io/posts/latex/</guid><description>&lt;blockquote>
-&lt;p>You can embed KaTeX in Hugo&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>https://danielvelara.github.io/</link><description>danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>LaTeX</title><link>https://danielvelara.github.io/posts/latex/</link><pubDate>Mon, 26 Sep 2022 17:54:46 -0500</pubDate><guid>https://danielvelara.github.io/posts/latex/</guid><description>&lt;blockquote>
+&lt;p>You can embed KaTeX/LaTeX in Hugo&lt;/p>
 &lt;/blockquote>
 &lt;script>
 document.addEventListener("DOMContentLoaded", function() {
