@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>mermaid on danielvelara</title><link>https://danielvelara.github.io/tags/mermaid/</link><description>danielvelara (mermaid)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 12:46:08 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/tags/mermaid/index.xml" rel="self" type="application/rss+xml"/><item><title>Create diagrams as code with Mermaid</title><link>https://danielvelara.github.io/posts/mermaid/</link><pubDate>Mon, 26 Sep 2022 12:46:08 -0500</pubDate><guid>https://danielvelara.github.io/posts/mermaid/</guid><description>&lt;h3 id="mermiad" >Mermiad
+&lt;span>
+&lt;a href="#mermiad">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;script
+async
+type="application/javascript"
+src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"
+>
+var config = {
+startOnLoad:true,
+theme:'neutral',
+align:'left'
+};
+mermaid.initialize(config);
+&lt;/script>
+&lt;div class="mermaid">
+sequenceDiagram
+title Token Based
+Client ->> Server: POST /login &lt;br> {email,password}
+Note right of Server: Create JWT for User &lt;br> w/ secret
+Server -->> Client: Send JWT
+Note left of Client: Store Token &lt;br> as localStorage
+Client ->> Server: Send Request &lt;br> with JWT &lt;br> In Header (Authorization:BearerToken )
+Note right of Server: Verify JWT Signature
+Server -->> Client: Send Response
+&lt;/div></description></item></channel></rss>

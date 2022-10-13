@@ -1,44 +1,117 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on danielvelara</title><link>https://danielvelara.github.io/posts/</link><description>Recent content in Posts on danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Sep 2022 21:19:52 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Alma</title><link>https://danielvelara.github.io/posts/alma/</link><pubDate>Mon, 26 Sep 2022 21:19:52 -0500</pubDate><guid>https://danielvelara.github.io/posts/alma/</guid><description>ComunidApp Escenario: Mundo Post-Apocalipsis, en dónde la humanidad sobrevivió pero la sociedad no es como antes… Descripción: ComunidApp es una WebApp en la que los usuarios puedan comunicarse para intercambiar productos y servicios a nivel local/comunidad.
-Metas: Fortalecer los lazos comunitarios Crear comunidad entre los colonos Evitar el desperdicio de productos Aprovechar los servicios que la comunidad puede llegar a ofrecer Constraints: Servidor que genera su propia electricidad Raspberry con powerbank Bajo consumo de datos Red local Router con powerbank Sólo tiene acceso a 1 hora de internet al día</description><content>&lt;h1 id="comunidapp">ComunidApp&lt;/h1>
-&lt;p>Escenario: Mundo Post-Apocalipsis, en dónde la humanidad sobrevivió pero la sociedad no es como antes…
-Descripción: ComunidApp es una WebApp en la que los usuarios puedan comunicarse para intercambiar productos y servicios a nivel local/comunidad.&lt;/p>
-&lt;ul>
-&lt;li>Metas:
-&lt;ul>
-&lt;li>Fortalecer los lazos comunitarios&lt;/li>
-&lt;li>Crear comunidad entre los colonos&lt;/li>
-&lt;li>Evitar el desperdicio de productos&lt;/li>
-&lt;li>Aprovechar los servicios que la comunidad puede llegar a ofrecer&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Constraints:
-&lt;ul>
-&lt;li>Servidor que genera su propia electricidad&lt;/li>
-&lt;li>Raspberry con powerbank&lt;/li>
-&lt;li>Bajo consumo de datos&lt;/li>
-&lt;li>Red local&lt;/li>
-&lt;li>Router con powerbank&lt;/li>
-&lt;li>Sólo tiene acceso a 1 hora de internet al día&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul></content></item><item><title>Daniel</title><link>https://danielvelara.github.io/posts/daniel/</link><pubDate>Mon, 26 Sep 2022 21:14:42 -0500</pubDate><guid>https://danielvelara.github.io/posts/daniel/</guid><description>Other Elements — abbr, sub, sup, kbd, mark GIF is a bitmap image format.
-H2O
-Xn + Yn = Zn
-Press CTRL+ALT+Delete to end the session.
-Most salamanders are nocturnal, and hunt for insects, worms, and other small creatures.
-H1 H2 H3 H4 H5 Name Age Bob 27 Alice 23 This is a lie 1
-from fastapi import FastAPI app = FastAPI() @app.get(&amp;#39;/&amp;#39;) async def root(): return {&amp;#39;message&amp;#39;: &amp;#39;Hello World&amp;#39;} package main import ( &amp;#34;fmt&amp;#34; &amp;#34;net/http&amp;#34; &amp;#34;time&amp;#34; ) func greet(w http.</description><content>&lt;h2 id="other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark&lt;/h2>
-&lt;p>&lt;abbr title="Graphics Interchange Format">GIF&lt;/abbr> is a bitmap image format.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Articles on danielvelara</title><link>https://danielvelara.github.io/posts/</link><description>danielvelara (Articles)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 22:35:36 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>LaTeX</title><link>https://danielvelara.github.io/posts/latex/</link><pubDate>Mon, 26 Sep 2022 17:54:46 -0500</pubDate><guid>https://danielvelara.github.io/posts/latex/</guid><description>&lt;blockquote>
+&lt;p>You can embed KaTeX/LaTeX in Hugo&lt;/p>
+&lt;/blockquote>
+&lt;script>
+document.addEventListener("DOMContentLoaded", function() {
+renderMathInElement(document.body, {
+delimiters: [
+{left: "$$", right: "$$", display: true},
+{left: "$", right: "$", display: false}
+]
+});
+});
+&lt;/script>
+&lt;h2 id="inline-math" >Inline Math
+&lt;span>
+&lt;a href="#inline-math">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>Check out this equation $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$ so cool!&lt;/p>
+&lt;h2 id="math-block" >Math Block
+&lt;span>
+&lt;a href="#math-block">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>$$
+\iiint_{x-1}^{x+1}{f(x)dxdydz}
+$$&lt;/p></description></item><item><title>Create diagrams as code with Mermaid</title><link>https://danielvelara.github.io/posts/mermaid/</link><pubDate>Mon, 26 Sep 2022 12:46:08 -0500</pubDate><guid>https://danielvelara.github.io/posts/mermaid/</guid><description>&lt;h3 id="mermiad" >Mermiad
+&lt;span>
+&lt;a href="#mermiad">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;script
+async
+type="application/javascript"
+src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"
+>
+var config = {
+startOnLoad:true,
+theme:'neutral',
+align:'left'
+};
+mermaid.initialize(config);
+&lt;/script>
+&lt;div class="mermaid">
+sequenceDiagram
+title Token Based
+Client ->> Server: POST /login &lt;br> {email,password}
+Note right of Server: Create JWT for User &lt;br> w/ secret
+Server -->> Client: Send JWT
+Note left of Client: Store Token &lt;br> as localStorage
+Client ->> Server: Send Request &lt;br> with JWT &lt;br> In Header (Authorization:BearerToken )
+Note right of Server: Verify JWT Signature
+Server -->> Client: Send Response
+&lt;/div></description></item><item><title>FastAPI Tutorial</title><link>https://danielvelara.github.io/posts/fastapi/fastapi/</link><pubDate>Sun, 25 Sep 2022 12:46:08 -0500</pubDate><guid>https://danielvelara.github.io/posts/fastapi/fastapi/</guid><description>&lt;blockquote>
+&lt;p>FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;img src="https://danielvelara.github.io/img/fastapi.png" alt="img">&lt;/p>
+&lt;h2 id="hello-world" >Hello World
+&lt;span>
+&lt;a href="#hello-world">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;">&lt;code class="language-py" data-lang="py">&lt;span style="display:flex; background-color:#3c3d38">&lt;span>&lt;span style="color:#f92672">from&lt;/span> fastapi &lt;span style="color:#f92672">import&lt;/span> FastAPI
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>app &lt;span style="color:#f92672">=&lt;/span> FastAPI()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3c3d38">&lt;span>&lt;span style="color:#a6e22e">@app&lt;/span>&lt;span style="color:#f92672">.&lt;/span>get(&lt;span style="color:#e6db74">&amp;#39;/&amp;#39;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3c3d38">&lt;span>&lt;span style="color:#66d9ef">async&lt;/span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">root&lt;/span>():
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> {&lt;span style="color:#e6db74">&amp;#39;message&amp;#39;&lt;/span>: &lt;span style="color:#e6db74">&amp;#39;Hello World&amp;#39;&lt;/span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Hugo Tutorial</title><link>https://danielvelara.github.io/posts/hugo/</link><pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate><guid>https://danielvelara.github.io/posts/hugo/</guid><description>&lt;h2 id="other-elements--abbr-sub-sup-kbd-mark" >Other Elements — abbr, sub, sup, kbd, mark
+&lt;span>
+&lt;a href="#other-elements--abbr-sub-sup-kbd-mark">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>&lt;abbr title="Graphics Interchange Format">GIF&lt;/abbr> is a bitmap image format.&lt;/p>
 &lt;p>H&lt;sub>2&lt;/sub>O&lt;/p>
 &lt;p>X&lt;sup>n&lt;/sup> + Y&lt;sup>n&lt;/sup> = Z&lt;sup>n&lt;/sup>&lt;/p>
 &lt;p>Press &lt;kbd>&lt;kbd>CTRL&lt;/kbd>+&lt;kbd>ALT&lt;/kbd>+&lt;kbd>Delete&lt;/kbd>&lt;/kbd> to end the session.&lt;/p>
 &lt;p>Most &lt;mark>salamanders&lt;/mark> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
-&lt;h1 id="h1">H1&lt;/h1>
-&lt;h2 id="h2">H2&lt;/h2>
-&lt;h3 id="h3">H3&lt;/h3>
-&lt;h4 id="h4">H4&lt;/h4>
-&lt;h5 id="h5">H5&lt;/h5>
-&lt;table>
+&lt;h1 id="h1" >H1
+&lt;span>
+&lt;a href="#h1">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h1>&lt;h2 id="h2" >H2
+&lt;span>
+&lt;a href="#h2">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="h3" >H3
+&lt;span>
+&lt;a href="#h3">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;h4 id="h4" >H4
+&lt;span>
+&lt;a href="#h4">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h4>&lt;h5 id="h5" >H5
+&lt;span>
+&lt;a href="#h5">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h5>&lt;table>
 &lt;thead>
 &lt;tr>
 &lt;th>Name&lt;/th>
@@ -83,20 +156,47 @@ from fastapi import FastAPI app = FastAPI() @app.get(&amp;#39;/&amp;#39;) async 
 &lt;dt>Term&lt;/dt>
 &lt;dd>Definition&lt;/dd>
 &lt;/dl>
-&lt;h2 id="shortcodes">Shortcodes&lt;/h2>
-&lt;h3 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode&lt;/h3>
+&lt;h2 id="shortcodes" >Shortcodes
+&lt;span>
+&lt;a href="#shortcodes">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="youtube-privacy-enhanced-shortcode" >YouTube Privacy Enhanced Shortcode
+&lt;span>
+&lt;a href="#youtube-privacy-enhanced-shortcode">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/ZJthWmvUzzc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
-&lt;h3 id="caption">Caption&lt;/h3>
-&lt;figure class="left" >
-&lt;img src="https://danielvelara.github.io/img/doge.png" />
+&lt;h3 id="caption" >Caption
+&lt;span>
+&lt;a href="#caption">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;figure>&lt;img src="https://danielvelara.github.io/img/doge.png"/>&lt;figcaption>
+&lt;h4>Doge Coin&lt;/h4>
+&lt;/figcaption>
 &lt;/figure>
 &lt;p>&lt;img src="https://danielvelara.github.io/img/doge.png" alt="Doge">&lt;/p>
-&lt;h3 id="github-gist">GitHub gist&lt;/h3>
-&lt;script type="application/javascript" src="https://gist.github.com/spf13/7896402.js">&lt;/script>
-&lt;h3 id="twitter">Twitter&lt;/h3>
-&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Owl bet you&amp;#39;ll lose this staring contest 🦉 &lt;a href="https://t.co/eJh4f2zncC">pic.twitter.com/eJh4f2zncC&lt;/a>&lt;/p>&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) &lt;a href="https://twitter.com/sandiegozoo/status/1453110110599868418?ref_src=twsrc%5Etfw">October 26, 2021&lt;/a>&lt;/blockquote>
+&lt;h3 id="github-gist" >GitHub gist
+&lt;span>
+&lt;a href="#github-gist">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;script type="application/javascript" src="https://gist.github.com/spf13/7896402.js">&lt;/script>
+&lt;h3 id="twitter" >Twitter
+&lt;span>
+&lt;a href="#twitter">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Owl bet you&amp;#39;ll lose this staring contest 🦉 &lt;a href="https://t.co/eJh4f2zncC">pic.twitter.com/eJh4f2zncC&lt;/a>&lt;/p>&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) &lt;a href="https://twitter.com/sandiegozoo/status/1453110110599868418?ref_src=twsrc%5Etfw">October 26, 2021&lt;/a>&lt;/blockquote>
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
 &lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
@@ -105,15 +205,4 @@ from fastapi import FastAPI app = FastAPI() @app.get(&amp;#39;/&amp;#39;) async 
 &lt;p>This is not a lie&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></content></item><item><title>Diego</title><link>https://danielvelara.github.io/posts/diego/</link><pubDate>Mon, 26 Sep 2022 21:14:24 -0500</pubDate><guid>https://danielvelara.github.io/posts/diego/</guid><description>Las galletas del Costco Hola, soy Diego y nunca he probado una galleta de Costco.
-La razón es muy simple: No hay un Costco en mi ciudad :(</description><content>&lt;h1 id="las-galletas-del-costco">Las galletas del Costco&lt;/h1>
-&lt;p>Hola, soy Diego y nunca he probado una galleta de Costco.&lt;/p>
-&lt;p>La razón es muy simple: No hay un Costco en mi ciudad :(&lt;/p></content></item><item><title>Abi</title><link>https://danielvelara.github.io/posts/abi/</link><pubDate>Mon, 26 Sep 2022 21:11:19 -0500</pubDate><guid>https://danielvelara.github.io/posts/abi/</guid><description>Los erizos son animalitos mamiferos No son roedores El erizo posee antre 5000 y 7000 púas que emplea como técnica de defensa. Los músculos alojados en su espalda son los que permiten que el animalito saque o esconda sus púas. Cada ericito tiene su personalidad
-¿Qué no deben comer? Los erizos no deben comer semillas, uvas pasas, aguacate, cebolla, ajo, maís, arroz, elote, lácteos, chocolate, entre otros. Les encantan los roedores</description><content>&lt;h1 id="los-erizos-son-animalitos-mamiferos">Los erizos son animalitos mamiferos&lt;/h1>
-&lt;p>&lt;strong>&lt;em>No son roedores&lt;/em>&lt;/strong>
-El erizo posee antre 5000 y 7000 púas que emplea como técnica de defensa.
-Los músculos alojados en su espalda son los que permiten que el animalito saque o esconda sus púas.
-&lt;em>Cada ericito tiene su personalidad&lt;/em>&lt;/p>
-&lt;h2 id="qué-no-deben-comer">¿Qué no deben comer?&lt;/h2>
-&lt;p>Los erizos no deben comer semillas, uvas pasas, aguacate, cebolla, ajo, maís, arroz, elote, lácteos, chocolate, entre otros.
-&lt;strong>&lt;em>Les encantan los roedores&lt;/em>&lt;/strong>&lt;/p></content></item></channel></rss>
+&lt;/div></description></item></channel></rss>

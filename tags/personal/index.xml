@@ -1,1 +1,185 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>personal on danielvelara</title><link>https://danielvelara.github.io/tags/personal/</link><description>Recent content in personal on danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 22:44:59 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml"/><item><title>Autobiography</title><link>https://danielvelara.github.io/autobiography/</link><pubDate>Wed, 21 Sep 2022 22:44:59 -0500</pubDate><guid>https://danielvelara.github.io/autobiography/</guid><description>Autobiography</description><content>&lt;h1 id="autobiography">Autobiography&lt;/h1></content></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>personal on danielvelara</title><link>https://danielvelara.github.io/tags/personal/</link><description>danielvelara (personal)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 22:44:59 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml"/><item><title>Autobiography</title><link>https://danielvelara.github.io/autobiography/</link><pubDate>Wed, 21 Sep 2022 22:44:59 -0500</pubDate><guid>https://danielvelara.github.io/autobiography/</guid><description>&lt;h1 id="autobiography" >Autobiography
+&lt;span>
+&lt;a href="#autobiography">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h1></description></item><item><title>About</title><link>https://danielvelara.github.io/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://danielvelara.github.io/about/</guid><description>&lt;h2 id="education" >Education
+&lt;span>
+&lt;a href="#education">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Instituto Tecnológico y de Estudios Superiores de Monterrey&lt;/strong> (ITESM) - Guadalajara, Jalisco, México
+&lt;blockquote>
+&lt;p>&lt;em>B.S. Engineer’s Degree in Computer Systems Engineering&lt;/em> | August 2018 - June 2022&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;strong>42 University Silicon Valley&lt;/strong> - Fremont, California, USA
+&lt;blockquote>
+&lt;p>&lt;em>C Piscine&lt;/em> | Winter 2020&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="work-experience" >Work Experience
+&lt;span>
+&lt;a href="#work-experience">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>SoftServe&lt;/strong> - Guadalajara, Jalisco, México&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Fullstack Software Engineering&lt;/em> | August 2022 - &lt;strong>Present&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>Developing modern and scalable web applications with &lt;strong>React/Redux/TypeScript&lt;/strong> + &lt;strong>Python/FastAPI&lt;/strong> on &lt;strong>Azure&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Hewlett-Packard&lt;/strong> (HP, inc) - Guadalajara, Jalisco, México&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>R&amp;amp;D Software Engineering Intern&lt;/em> | June 2021 - July 2022&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>Developed and refactored internal tools using modern web technologies with &lt;strong>React/Redux&lt;/strong>&lt;/li>
+&lt;li>Assisted the DevOps team to migrate legacy applications to &lt;strong>AWS&lt;/strong> using &lt;strong>CloudFormation&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;!--- - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.--->
+&lt;ul>
+&lt;li>Collaborated with multi-national and cross-functional teams using &lt;strong>Agile&lt;/strong> methodologies&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Uber México&lt;/strong> - Guadalajara, Jalisco, México&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Software Engineering Academic Apprenticeship&lt;/em> | March 2021 - June 2021&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>Assisted the Analytics Team on refactoring multiple Jupyter Notebooks into a fully featured microservice with &lt;strong>Python/FastAPI&lt;/strong> and deployed using &lt;strong>Docker&lt;/strong> by distilling and analyzing critical parts of the codebase and making a fully working PoC internal service.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Usuma México&lt;/strong> (Non-Profit Education Center) - Guadalajara, Jalisco, México&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Web Developer (Volunteering)&lt;/em> | Dec 2020 - February 2021&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>Created and maintained a website using &lt;strong>HTML/CSS/JS&lt;/strong> deployed to &lt;strong>Heroku&lt;/strong> for a Non-Profit focused on educating children from low-income families&lt;/li>
+&lt;li>Implemented a &lt;strong>Paypal&lt;/strong> donations feature, increasing donations by (15%) compared to previous months and donation methods.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Bright&lt;/strong> (Solar Technology Company) - Guadalajara, Jalisco, México&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Software Development Intern &amp;amp; Sales Rep&lt;/em> | June 2019 - Jan 2020&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>Developed &lt;strong>Python&lt;/strong> Scripts for automating and accelerating in-house systems for project budgeting reducing &lt;strong>90%&lt;/strong> of manual work for the Sales Team&lt;/li>
+&lt;li>Competitively analyzed new domestic solar projects in local and regional territories&lt;/li>
+&lt;li>Performed comprehensive market research on multiple solar technologies&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>DMSolar&lt;/strong> (Solar Energy Distributor) - Guadalajara, Jalisco, México&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>IT Assistant&lt;/em> | Summer 2018&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>Help the company staff to enforce multiple cybersecurity protection policies&lt;/li>
+&lt;li>Assisted in the migration of G-Suite to Office 365 across the company&lt;/li>
+&lt;li>Generated automated daily reports &lt;strong>five times faster&lt;/strong> for the Sales team using &lt;strong>SAP&lt;/strong> compared to the previous Excel implementation&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="technical-skills" >Technical Skills
+&lt;span>
+&lt;a href="#technical-skills">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>Programming Languages&lt;/strong>
+&lt;ul>
+&lt;li>Fluent: Python, JavaScript/TypeScript&lt;/li>
+&lt;li>Proficient: Go, SQL, Bash&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Technologies&lt;/strong>
+&lt;ul>
+&lt;li>Frontend: HTML5, CSS3, React, Redux&lt;/li>
+&lt;li>Backend: FastAPI, NodeJS, NextJS, Hugo&lt;/li>
+&lt;li>DevOps: GNU/Linux,Docker, AWS, Azure, CI/CD, GitHub Actions, CloudFormation&lt;/li>
+&lt;li>Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB&lt;/li>
+&lt;li>App Development: React Native, PWA&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Tools &amp;amp; Knowledge&lt;/strong>
+&lt;ul>
+&lt;li>Git/GitHub&lt;/li>
+&lt;li>Project Management: Agile/Scrum, Jira, Azure DevOps&lt;/li>
+&lt;li>Networking: REST API&amp;rsquo;s, OpenAPI/Swagger, WebSockets&lt;/li>
+&lt;li>Unit Testing&lt;/li>
+&lt;li>OOP&lt;/li>
+&lt;li>Data Structures &amp;amp; Algorithms&lt;/li>
+&lt;li>Security: HTTPS, OAuth2 &amp;amp; OpenID Connect, OWASP Top 10&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Languages&lt;/strong>
+&lt;ul>
+&lt;li>Spanish (Native)&lt;/li>
+&lt;li>English (Advanced): TOEFL C1&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="relevant-coursework--certifications" >Relevant Coursework &amp;amp; Certifications
+&lt;span>
+&lt;a href="#relevant-coursework--certifications">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>AWS Certified Developer Associate&lt;/strong> by &lt;em>AWS Training and Certification&lt;/em>&lt;/li>
+&lt;li>&lt;strong>IT Automation with Python&lt;/strong> Professional Certificate by &lt;em>Google/Coursera&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Project Management: Professional Certificate&lt;/strong> by &lt;em>Google/Coursera&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Algorithms Specialization&lt;/strong> by &lt;em>Stanford/Coursera&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;h2 id="projects" >Projects
+&lt;span>
+&lt;a href="#projects">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://github.com/danielvelara/ChaleBache-rn">&lt;strong>Pothole Detection System&lt;/strong>&lt;/a>, Fall 2021
+&lt;ul>
+&lt;li>Built and deployed a mobile application using &lt;strong>React Native + Expo&lt;/strong> for users to detect potholes while driving using their smartphone sensors&lt;/li>
+&lt;li>Created a WebApp using &lt;strong>HTML/CSS/JS/React&lt;/strong> using &lt;strong>Google Maps API&lt;/strong> for displaying multiple potholes detected in a city.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/danielvelara/CovidVaccinationSimulation">&lt;strong>Covid-19 Vaccination Simulation&lt;/strong>&lt;/a>, Summer 2021
+&lt;ul>
+&lt;li>Built an Agent-based modeling simulation using &lt;strong>Python3&lt;/strong> and &lt;strong>Mesa Framework&lt;/strong> for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/danielvelara/SlackyToDo">&lt;strong>ToDo&amp;rsquo;s online service&lt;/strong>&lt;/a>, Summer 2020
+&lt;ul>
+&lt;li>Implemented a CRUD WebApp using the &lt;strong>MVC&lt;/strong> Pattern with &lt;strong>Python/Flask&lt;/strong> (Backend) and &lt;strong>HTML/CSS/Vanilla JS&lt;/strong> (frontend) with User Authentication/Authorization/Sessions with &lt;strong>Firebase&lt;/strong> + &lt;strong>SQLite&lt;/strong> as the backend database for the service.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="currently-learning" >Currently Learning
+&lt;span>
+&lt;a href="#currently-learning">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>Design Patterns&lt;/li>
+&lt;li>System Design&lt;/li>
+&lt;li>Test Driven Development&lt;/li>
+&lt;li>Functional Programming with Haskell&lt;/li>
+&lt;li>SSG with Hugo&lt;/li>
+&lt;/ul></description></item></channel></rss>
