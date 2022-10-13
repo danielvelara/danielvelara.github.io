@@ -1,0 +1,61 @@
+baseURL = 'https://danielvelara.github.io/'
+languageCode = 'en-us'
+title = 'danielvelara'
+theme = 'anubis'
+paginate = 5
+
+[params]
+author = "Daniel Velázquez"
+description = "My Personal site"
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "auto"
+readMore = false
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = true
+disableSummary= true
+
+[[params.social]]
+id = "email"
+url = "mailto:drlga3m6@anonaddy.me?subject=Contact%20me"
+
+[[params.social]]
+id = "github"
+url = "https://github.com/danielvelara"
+
+[[params.social]]
+id = "linkedin"
+url = "https://www.linkedin.com/in/danielvelara/"
+
+
+[menu]
+
+
+[[menu.main]]
+name = "Posts"
+identifier = "Posts"
+url = "/posts/"
+weight = 1
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+
+[[menu.main]]
+name = "Projects"
+identifier = "projects"
+url = "/projects/"
+weight = 3
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 4
+
+
+[markup.goldmark.renderer]
+unsafe = true
