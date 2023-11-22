@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "About me"
 description: "Hugo, the world’s fastest framework for building websites"
-date: "2019-02-28"
+date: "2023-11-22"
 aliases: ["about-us", "about-hugo", "contact"]
 author: "Hugo Authors"
 tags: ["personal"]
@@ -22,23 +22,17 @@ menu:
     weight: 10
 ---
 
-## Education
+## Experience
 
-- **Instituto Tecnológico y de Estudios Superiores de Monterrey** (ITESM) - Guadalajara, Jalisco, México
-  > _B.S. Engineer’s Degree in Computer Systems Engineering_ | August 2018 - June 2022
-- **42 University Silicon Valley** - Fremont, California, USA
-  > _C Piscine_ | Winter 2020
-
-## Work Experience
-
+- **C3.ai** - Guadalajara, Jalisco, México
+  > _Software Solution Engineer_ | October 2023 - **Present**
+  - Development of an Energy Management Application
+  - Implementation of testing to validation of critical business logic
 - **SoftServe** - Guadalajara, Jalisco, México
-
-  > _Fullstack Software Engineering_ | August 2022 - **Present**
-
+  > _Fullstack Software Engineer_ | August 2022 - September 2023
   - Developing modern and scalable web applications with **React/Redux/TypeScript** + **Python/FastAPI** on **Azure**
-
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
-  > _R&D Software Engineering Intern_ | June 2021 - July 2022
+  > _R&D Software Engineer Intern_ | June 2021 - July 2022
   - Developed and refactored internal tools using modern web technologies with **React/Redux**
   - Assisted the DevOps team to migrate legacy applications to **AWS** using **CloudFormation**
   <!--- - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.--->
@@ -55,41 +49,48 @@ menu:
   - Developed **Python** Scripts for automating and accelerating in-house systems for project budgeting reducing **90%** of manual work for the Sales Team
   - Competitively analyzed new domestic solar projects in local and regional territories
   - Performed comprehensive market research on multiple solar technologies
-- **DMSolar** (Solar Energy Distributor) - Guadalajara, Jalisco, México
-  > _IT Assistant_ | Summer 2018
-  - Help the company staff to enforce multiple cybersecurity protection policies
-  - Assisted in the migration of G-Suite to Office 365 across the company
-  - Generated automated daily reports **five times faster** for the Sales team using **SAP** compared to the previous Excel implementation
+
+## Education
+
+- [**Instituto Tecnológico y de Estudios Superiores de Monterrey**](https://certificados.tec.mx/certificate/8306f2d6b56a576ba10a016b77a68c0f) (ITESM) - Guadalajara, Jalisco, México
+  > _B.S. Engineer’s Degree in Computer Systems Engineering_ | August 2018 - June 2022
+- **42 University Silicon Valley** - Fremont, California, USA
+  > _C Piscine_ | Winter 2020
 
 ## Technical Skills
 
 - **Programming Languages**
-  - Fluent: Python, JavaScript/TypeScript
+  - Fluent: Python, JavaScript/TypeScript, Elixir
   - Proficient: Go, SQL, Bash
 - **Technologies**
-  - Frontend: HTML5, CSS3, React, Redux
-  - Backend: FastAPI, NodeJS, NextJS, Hugo
-  - DevOps: GNU/Linux,Docker, AWS, Azure, CI/CD, GitHub Actions, CloudFormation
-  - Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB
+  - Frontend: HTML5, CSS3, TailwindCSS, React + Redux, LiveView
+  - Backend: FastAPI, NestJS, NextJS, Phoenix, Supabase, Serverless
+  - DevOps: GNU/Linux, Docker, AWS, CI/CD, GitHub Actions
+  - Databases: PostgreSQL, SQLite, MongoDB, Ecto, Prisma
   - App Development: React Native, PWA
 - **Tools & Knowledge**
-  - Git/GitHub
-  - Project Management: Agile/Scrum, Jira, Azure DevOps
+  - Git/GitHub/GitFlow
+  - Project Management: Agile/Scrum, Jira
   - Networking: REST API's, OpenAPI/Swagger, WebSockets
-  - Unit Testing
+  - Testing: TDD, RTL, Storybook, Jest/Vitest, Playwright, ExUnit
   - OOP
   - Data Structures & Algorithms
   - Security: HTTPS, OAuth2 & OpenID Connect, OWASP Top 10
-- **Languages**
-  - Spanish (Native)
-  - English (Advanced): TOEFL C1
+
+## Languages
+
+- Spanish (Native)
+- English (Business fluent)
+- Italian (Basics)
 
 ## Relevant Coursework & Certifications
 
-- **AWS Certified Developer Associate** by _AWS Training and Certification_
-- **IT Automation with Python** Professional Certificate by _Google/Coursera_
-- **Project Management: Professional Certificate** by _Google/Coursera_
-- **Algorithms Specialization** by _Stanford/Coursera_
+<!-- - **AWS Certified Developer Associate** by _AWS Training and Certification_ -->
+<!-- - **IT Automation with Python** Professional Certificate by _Google/Coursera_ -->
+<!-- - **Project Management: Professional Certificate** by _Google/Coursera_ -->
+<!-- - **Algorithms Specialization** by _Stanford/Coursera_ -->
+
+- **Open Source Software Development, Linux and Git Specialization** by _THe Linux Foundation_
 
 ## Projects
 
@@ -103,8 +104,38 @@ menu:
 
 ## Currently Learning
 
-- Design Patterns
-- System Design
-- Test Driven Development
-- Functional Programming with Haskell
-- SSG with Hugo
+- Elixir + Phoenix
+
+## PGP Public Key
+
+```txt
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQENBFqd1XcBCAC+ECcC2wEuXDd7dSbWxf291uqUSoc0YwNRnx6pL7PSMtFeH4Mu
+Dln1nbcjQv4CTmqmbDKWuPERMYu4wTmjG8fADxzmccen9WzRMqcY07TO0+acjYM1
+poGEwjJR5KI3cxB+ieYjnjvaUuDa0Tl1JV1DAnFLnl+j4Q2fr3uQ3tFI5JWUB/Fq
+OviVMmjbzh4H+5+i5vJgCiaWx8R0Iq3f3Za1xaPvlDQZXuTb3i1q9mODk4inMGIn
+4KpHAGq+31yBhwhvw/cw5lcqHQ96h8GB+EGCB+ycKF2tCpqt7oNd8a7HECzStP48
+IwCSgMEaJgnpBiVDPW/ZoYlupqqMRBJ48fPHABEBAAG0I0NocmlzdGlhbiBCYXJn
+bWFubiA8Y2hyaXNAY2JyZ20uZGU+iQE3BBMBCAAhBQJandV3AhsDBQsJCAcCBhUI
+CQoLAgQWAgMBAh4BAheAAAoJEFHW9pGRvWIZlfMH/2htnCjw8gLHF9l7NBXys5B+
+flsKdv+L0Tg0iARtZPXgwyFZwyUeBI52UYLrYKPQTMRu0/TLYHWXnyBepTVttGhl
+pN6SnpPUXeF3s+0BHm3MnrKclcm8ByievSfhTySt/MXy7Jq4b6mpItqdOSaEuPuS
+Gv/5kmYTKUXgnp+GlIy610bRBgWlGdkcC5CbgjfDtQmgHJF62qLvhsT+kVQPN+z6
+zmrgn2xXbCsecW7G84rExSjoGJqeDUdqMHL+izKsnzZcthCFexXWht6lzW7+abyI
+Olu0E4u/ixC+5Gv0Ms8WPDmZc2WQsvKtXkTToJONLrEru8wVShXfXCqo8vyp/1G5
+AQ0EWp3VdwEIAK89wnC7OlRuIY+MN5dHSnZFgfrhJGoz1T3tA18/1zeJJ/y//4Yy
+xQNkdRRa47HfNZdTIGG81USxDVV1ImkIveiIrj+yaO0UfLGA1+QbxS2SPGL/7hRq
+RyuWqUAA/EhcRUhen7D9AHTKvNyLFPgWkiEWYHdDKxV3TvZtLibzN20AKsOJVJgh
+W4rLopz5rWy2Tckql17gQG5XGxbFE2aL+vX6YpwG3mthjub/M8L4ifUBZyWz2KWx
+cpH9IfSSQCuBolEElZBV4GnGv05gLEb+eRGTjeeccyoJJ2UtOHb5zWFun0iBjK6B
+smaN/xOWGjWu6nAH2uQAwVG+zLV+r19fIvcAEQEAAYkBHwQYAQgACQUCWp3VdwIb
+DAAKCRBR1vaRkb1iGVVUCACpH7tEMbXy4XDDC66v5TkKCERiLnasUqc0L53vCBm0
+b11elLXTfwrRDrwa/bsm0kGbK34bfHM1f/5WeCEcZq+sDrolymWXScaMUG5KuJ/i
+Jt8hVQrQ5u8EoqtlBBADnXiBAGU8otjsUYeORj8hX4CLfLWTAKvPCfGF1bUd+JDF
+SIgWdtHSHfkFmg3Pmm/mzu2hxyg3a/QAD+FmmpuRqH321yU1HPowyVIaaBrZd2nL
+24ZhIXVkBocjRVi63TosvG8RRyAkYuQhIAzE/X2EkpAW1gPlTrN1PFdVouV5oUnx
+P0GTRGbnH/wfDnIWkHq78a6bGcDBIRixzW7vCNH7hkLr
+=TfEE
+-----END PGP PUBLIC KEY BLOCK-----
+```
