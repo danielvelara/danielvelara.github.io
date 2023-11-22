@@ -11,8 +11,7 @@
 &lt;/a>
 &lt;/span>
 &lt;/h2>&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>C3.ai&lt;/strong> - Guadalajara, Jalisco, México&lt;/p>
+&lt;li>&lt;strong>C3.ai&lt;/strong> - Guadalajara, Jalisco, México
 &lt;blockquote>
 &lt;p>&lt;em>Software Solution Engineer&lt;/em> | October 2023 - &lt;strong>Present&lt;/strong>&lt;/p>
 &lt;/blockquote>
@@ -21,8 +20,7 @@
 &lt;li>Implementation of testing to validation of critical business logic&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;strong>SoftServe&lt;/strong> - Guadalajara, Jalisco, México&lt;/p>
+&lt;li>&lt;strong>SoftServe&lt;/strong> - Guadalajara, Jalisco, México
 &lt;blockquote>
 &lt;p>&lt;em>Fullstack Software Engineer&lt;/em> | August 2022 - September 2023&lt;/p>
 &lt;/blockquote>
@@ -30,8 +28,7 @@
 &lt;li>Developing modern and scalable web applications with &lt;strong>React/Redux/TypeScript&lt;/strong> + &lt;strong>Python/FastAPI&lt;/strong> on &lt;strong>Azure&lt;/strong>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Hewlett-Packard&lt;/strong> (HP, inc) - Guadalajara, Jalisco, México&lt;/p>
+&lt;li>&lt;strong>Hewlett-Packard&lt;/strong> (HP, inc) - Guadalajara, Jalisco, México
 &lt;blockquote>
 &lt;p>&lt;em>R&amp;amp;D Software Engineer Intern&lt;/em> | June 2021 - July 2022&lt;/p>
 &lt;/blockquote>
@@ -44,8 +41,7 @@
 &lt;li>Collaborated with multi-national and cross-functional teams using &lt;strong>Agile&lt;/strong> methodologies&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Uber México&lt;/strong> - Guadalajara, Jalisco, México&lt;/p>
+&lt;li>&lt;strong>Uber México&lt;/strong> - Guadalajara, Jalisco, México
 &lt;blockquote>
 &lt;p>&lt;em>Software Engineering Academic Apprenticeship&lt;/em> | March 2021 - June 2021&lt;/p>
 &lt;/blockquote>
@@ -53,8 +49,7 @@
 &lt;li>Assisted the Analytics Team on refactoring multiple Jupyter Notebooks into a fully featured microservice with &lt;strong>Python/FastAPI&lt;/strong> and deployed using &lt;strong>Docker&lt;/strong> by distilling and analyzing critical parts of the codebase and making a fully working PoC internal service.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Usuma México&lt;/strong> (Non-Profit Education Center) - Guadalajara, Jalisco, México&lt;/p>
+&lt;li>&lt;strong>Usuma México&lt;/strong> (Non-Profit Education Center) - Guadalajara, Jalisco, México
 &lt;blockquote>
 &lt;p>&lt;em>Web Developer (Volunteering)&lt;/em> | Dec 2020 - February 2021&lt;/p>
 &lt;/blockquote>
@@ -63,8 +58,7 @@
 &lt;li>Implemented a &lt;strong>Paypal&lt;/strong> donations feature, increasing donations by (15%) compared to previous months and donation methods.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Bright&lt;/strong> (Solar Technology Company) - Guadalajara, Jalisco, México&lt;/p>
+&lt;li>&lt;strong>Bright&lt;/strong> (Solar Technology Company) - Guadalajara, Jalisco, México
 &lt;blockquote>
 &lt;p>&lt;em>Software Development Intern &amp;amp; Sales Rep&lt;/em> | June 2019 - Jan 2020&lt;/p>
 &lt;/blockquote>
@@ -72,17 +66,6 @@
 &lt;li>Developed &lt;strong>Python&lt;/strong> Scripts for automating and accelerating in-house systems for project budgeting reducing &lt;strong>90%&lt;/strong> of manual work for the Sales Team&lt;/li>
 &lt;li>Competitively analyzed new domestic solar projects in local and regional territories&lt;/li>
 &lt;li>Performed comprehensive market research on multiple solar technologies&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>DMSolar&lt;/strong> (Solar Energy Distributor) - Guadalajara, Jalisco, México&lt;/p>
-&lt;blockquote>
-&lt;p>&lt;em>IT Assistant&lt;/em> | Summer 2018&lt;/p>
-&lt;/blockquote>
-&lt;ul>
-&lt;li>Help the company staff to enforce multiple cybersecurity protection policies&lt;/li>
-&lt;li>Assisted in the migration of G-Suite to Office 365 across the company&lt;/li>
-&lt;li>Generated automated daily reports &lt;strong>five times faster&lt;/strong> for the Sales team using &lt;strong>SAP&lt;/strong> compared to the previous Excel implementation&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -119,10 +102,10 @@
 &lt;/li>
 &lt;li>&lt;strong>Technologies&lt;/strong>
 &lt;ul>
-&lt;li>Frontend: HTML5, CSS3, React + Redux, TailwindCSS&lt;/li>
-&lt;li>Backend: FastAPI, NestJS, NextJS, Phoenix + LiveView&lt;/li>
+&lt;li>Frontend: HTML5, CSS3, TailwindCSS, React + Redux, LiveView&lt;/li>
+&lt;li>Backend: FastAPI, NestJS, NextJS, Phoenix, Supabase, Serverless&lt;/li>
 &lt;li>DevOps: GNU/Linux, Docker, AWS, CI/CD, GitHub Actions&lt;/li>
-&lt;li>Databases: PostgreSQL, SQLite, MongoDB&lt;/li>
+&lt;li>Databases: PostgreSQL, SQLite, MongoDB, Ecto, Prisma&lt;/li>
 &lt;li>App Development: React Native, PWA&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -131,7 +114,7 @@
 &lt;li>Git/GitHub/GitFlow&lt;/li>
 &lt;li>Project Management: Agile/Scrum, Jira&lt;/li>
 &lt;li>Networking: REST API&amp;rsquo;s, OpenAPI/Swagger, WebSockets&lt;/li>
-&lt;li>Unit Testing&lt;/li>
+&lt;li>Testing: TDD, RTL, Storybook, Jest/Vitest, Playwright, ExUnit&lt;/li>
 &lt;li>OOP&lt;/li>
 &lt;li>Data Structures &amp;amp; Algorithms&lt;/li>
 &lt;li>Security: HTTPS, OAuth2 &amp;amp; OpenID Connect, OWASP Top 10&lt;/li>
