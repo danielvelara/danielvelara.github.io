@@ -4,35 +4,27 @@
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
 &lt;/a>
 &lt;/span>
-&lt;/h1></description></item><item><title>About</title><link>https://danielvelara.github.io/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://danielvelara.github.io/about/</guid><description>&lt;h2 id="education" >Education
+&lt;/h1></description></item><item><title>About me</title><link>https://danielvelara.github.io/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://danielvelara.github.io/about/</guid><description>&lt;h2 id="experience" >Experience
 &lt;span>
-&lt;a href="#education">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;ul>
-&lt;li>&lt;strong>Instituto Tecnológico y de Estudios Superiores de Monterrey&lt;/strong> (ITESM) - Guadalajara, Jalisco, México
-&lt;blockquote>
-&lt;p>&lt;em>B.S. Engineer’s Degree in Computer Systems Engineering&lt;/em> | August 2018 - June 2022&lt;/p>
-&lt;/blockquote>
-&lt;/li>
-&lt;li>&lt;strong>42 University Silicon Valley&lt;/strong> - Fremont, California, USA
-&lt;blockquote>
-&lt;p>&lt;em>C Piscine&lt;/em> | Winter 2020&lt;/p>
-&lt;/blockquote>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="work-experience" >Work Experience
-&lt;span>
-&lt;a href="#work-experience">
+&lt;a href="#experience">
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
 &lt;/a>
 &lt;/span>
 &lt;/h2>&lt;ul>
 &lt;li>
+&lt;p>&lt;strong>C3.ai&lt;/strong> - Guadalajara, Jalisco, México&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Software Solution Engineer&lt;/em> | October 2023 - &lt;strong>Present&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>Development of an Energy Management Application&lt;/li>
+&lt;li>Implementation of testing to validation of critical business logic&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
 &lt;p>&lt;strong>SoftServe&lt;/strong> - Guadalajara, Jalisco, México&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;em>Fullstack Software Engineering&lt;/em> | August 2022 - &lt;strong>Present&lt;/strong>&lt;/p>
+&lt;p>&lt;em>Fullstack Software Engineer&lt;/em> | August 2022 - September 2023&lt;/p>
 &lt;/blockquote>
 &lt;ul>
 &lt;li>Developing modern and scalable web applications with &lt;strong>React/Redux/TypeScript&lt;/strong> + &lt;strong>Python/FastAPI&lt;/strong> on &lt;strong>Azure&lt;/strong>&lt;/li>
@@ -41,7 +33,7 @@
 &lt;li>
 &lt;p>&lt;strong>Hewlett-Packard&lt;/strong> (HP, inc) - Guadalajara, Jalisco, México&lt;/p>
 &lt;blockquote>
-&lt;p>&lt;em>R&amp;amp;D Software Engineering Intern&lt;/em> | June 2021 - July 2022&lt;/p>
+&lt;p>&lt;em>R&amp;amp;D Software Engineer Intern&lt;/em> | June 2021 - July 2022&lt;/p>
 &lt;/blockquote>
 &lt;ul>
 &lt;li>Developed and refactored internal tools using modern web technologies with &lt;strong>React/Redux&lt;/strong>&lt;/li>
@@ -94,6 +86,24 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;h2 id="education" >Education
+&lt;span>
+&lt;a href="#education">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://certificados.tec.mx/certificate/8306f2d6b56a576ba10a016b77a68c0f">&lt;strong>Instituto Tecnológico y de Estudios Superiores de Monterrey&lt;/strong>&lt;/a> (ITESM) - Guadalajara, Jalisco, México
+&lt;blockquote>
+&lt;p>&lt;em>B.S. Engineer’s Degree in Computer Systems Engineering&lt;/em> | August 2018 - June 2022&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;strong>42 University Silicon Valley&lt;/strong> - Fremont, California, USA
+&lt;blockquote>
+&lt;p>&lt;em>C Piscine&lt;/em> | Winter 2020&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="technical-skills" >Technical Skills
 &lt;span>
 &lt;a href="#technical-skills">
@@ -103,23 +113,23 @@
 &lt;/h2>&lt;ul>
 &lt;li>&lt;strong>Programming Languages&lt;/strong>
 &lt;ul>
-&lt;li>Fluent: Python, JavaScript/TypeScript&lt;/li>
+&lt;li>Fluent: Python, JavaScript/TypeScript, Elixir&lt;/li>
 &lt;li>Proficient: Go, SQL, Bash&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;strong>Technologies&lt;/strong>
 &lt;ul>
-&lt;li>Frontend: HTML5, CSS3, React, Redux&lt;/li>
-&lt;li>Backend: FastAPI, NodeJS, NextJS, Hugo&lt;/li>
-&lt;li>DevOps: GNU/Linux,Docker, AWS, Azure, CI/CD, GitHub Actions, CloudFormation&lt;/li>
-&lt;li>Databases: PostgreSQL, SQLite, MongoDB, DynamoDB, CosmosDB&lt;/li>
+&lt;li>Frontend: HTML5, CSS3, React + Redux, TailwindCSS&lt;/li>
+&lt;li>Backend: FastAPI, NestJS, NextJS, Phoenix + LiveView&lt;/li>
+&lt;li>DevOps: GNU/Linux, Docker, AWS, CI/CD, GitHub Actions&lt;/li>
+&lt;li>Databases: PostgreSQL, SQLite, MongoDB&lt;/li>
 &lt;li>App Development: React Native, PWA&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;strong>Tools &amp;amp; Knowledge&lt;/strong>
 &lt;ul>
-&lt;li>Git/GitHub&lt;/li>
-&lt;li>Project Management: Agile/Scrum, Jira, Azure DevOps&lt;/li>
+&lt;li>Git/GitHub/GitFlow&lt;/li>
+&lt;li>Project Management: Agile/Scrum, Jira&lt;/li>
 &lt;li>Networking: REST API&amp;rsquo;s, OpenAPI/Swagger, WebSockets&lt;/li>
 &lt;li>Unit Testing&lt;/li>
 &lt;li>OOP&lt;/li>
@@ -127,12 +137,17 @@
 &lt;li>Security: HTTPS, OAuth2 &amp;amp; OpenID Connect, OWASP Top 10&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;strong>Languages&lt;/strong>
-&lt;ul>
-&lt;li>Spanish (Native)&lt;/li>
-&lt;li>English (Advanced): TOEFL C1&lt;/li>
 &lt;/ul>
-&lt;/li>
+&lt;h2 id="languages" >Languages
+&lt;span>
+&lt;a href="#languages">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>Spanish (Native)&lt;/li>
+&lt;li>English (Business fluent)&lt;/li>
+&lt;li>Italian (Basics)&lt;/li>
 &lt;/ul>
 &lt;h2 id="relevant-coursework--certifications" >Relevant Coursework &amp;amp; Certifications
 &lt;span>
@@ -140,11 +155,12 @@
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
 &lt;/a>
 &lt;/span>
-&lt;/h2>&lt;ul>
-&lt;li>&lt;strong>AWS Certified Developer Associate&lt;/strong> by &lt;em>AWS Training and Certification&lt;/em>&lt;/li>
-&lt;li>&lt;strong>IT Automation with Python&lt;/strong> Professional Certificate by &lt;em>Google/Coursera&lt;/em>&lt;/li>
-&lt;li>&lt;strong>Project Management: Professional Certificate&lt;/strong> by &lt;em>Google/Coursera&lt;/em>&lt;/li>
-&lt;li>&lt;strong>Algorithms Specialization&lt;/strong> by &lt;em>Stanford/Coursera&lt;/em>&lt;/li>
+&lt;/h2>&lt;!-- - **AWS Certified Developer Associate** by _AWS Training and Certification_ -->
+&lt;!-- - **IT Automation with Python** Professional Certificate by _Google/Coursera_ -->
+&lt;!-- - **Project Management: Professional Certificate** by _Google/Coursera_ -->
+&lt;!-- - **Algorithms Specialization** by _Stanford/Coursera_ -->
+&lt;ul>
+&lt;li>&lt;strong>Open Source Software Development, Linux and Git Specialization&lt;/strong> by &lt;em>THe Linux Foundation&lt;/em>&lt;/li>
 &lt;/ul>
 &lt;h2 id="projects" >Projects
 &lt;span>
@@ -177,9 +193,41 @@
 &lt;/a>
 &lt;/span>
 &lt;/h2>&lt;ul>
-&lt;li>Design Patterns&lt;/li>
-&lt;li>System Design&lt;/li>
-&lt;li>Test Driven Development&lt;/li>
-&lt;li>Functional Programming with Haskell&lt;/li>
-&lt;li>SSG with Hugo&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;li>Elixir + Phoenix&lt;/li>
+&lt;/ul>
+&lt;h2 id="pgp-public-key" >PGP Public Key
+&lt;span>
+&lt;a href="#pgp-public-key">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-txt" data-lang="txt">&lt;span style="display:flex;">&lt;span>-----BEGIN PGP PUBLIC KEY BLOCK-----
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>mQENBFqd1XcBCAC+ECcC2wEuXDd7dSbWxf291uqUSoc0YwNRnx6pL7PSMtFeH4Mu
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Dln1nbcjQv4CTmqmbDKWuPERMYu4wTmjG8fADxzmccen9WzRMqcY07TO0+acjYM1
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>poGEwjJR5KI3cxB+ieYjnjvaUuDa0Tl1JV1DAnFLnl+j4Q2fr3uQ3tFI5JWUB/Fq
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>OviVMmjbzh4H+5+i5vJgCiaWx8R0Iq3f3Za1xaPvlDQZXuTb3i1q9mODk4inMGIn
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>4KpHAGq+31yBhwhvw/cw5lcqHQ96h8GB+EGCB+ycKF2tCpqt7oNd8a7HECzStP48
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>IwCSgMEaJgnpBiVDPW/ZoYlupqqMRBJ48fPHABEBAAG0I0NocmlzdGlhbiBCYXJn
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>bWFubiA8Y2hyaXNAY2JyZ20uZGU+iQE3BBMBCAAhBQJandV3AhsDBQsJCAcCBhUI
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>CQoLAgQWAgMBAh4BAheAAAoJEFHW9pGRvWIZlfMH/2htnCjw8gLHF9l7NBXys5B+
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>flsKdv+L0Tg0iARtZPXgwyFZwyUeBI52UYLrYKPQTMRu0/TLYHWXnyBepTVttGhl
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>pN6SnpPUXeF3s+0BHm3MnrKclcm8ByievSfhTySt/MXy7Jq4b6mpItqdOSaEuPuS
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Gv/5kmYTKUXgnp+GlIy610bRBgWlGdkcC5CbgjfDtQmgHJF62qLvhsT+kVQPN+z6
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>zmrgn2xXbCsecW7G84rExSjoGJqeDUdqMHL+izKsnzZcthCFexXWht6lzW7+abyI
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Olu0E4u/ixC+5Gv0Ms8WPDmZc2WQsvKtXkTToJONLrEru8wVShXfXCqo8vyp/1G5
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>AQ0EWp3VdwEIAK89wnC7OlRuIY+MN5dHSnZFgfrhJGoz1T3tA18/1zeJJ/y//4Yy
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>xQNkdRRa47HfNZdTIGG81USxDVV1ImkIveiIrj+yaO0UfLGA1+QbxS2SPGL/7hRq
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>RyuWqUAA/EhcRUhen7D9AHTKvNyLFPgWkiEWYHdDKxV3TvZtLibzN20AKsOJVJgh
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>W4rLopz5rWy2Tckql17gQG5XGxbFE2aL+vX6YpwG3mthjub/M8L4ifUBZyWz2KWx
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cpH9IfSSQCuBolEElZBV4GnGv05gLEb+eRGTjeeccyoJJ2UtOHb5zWFun0iBjK6B
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>smaN/xOWGjWu6nAH2uQAwVG+zLV+r19fIvcAEQEAAYkBHwQYAQgACQUCWp3VdwIb
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>DAAKCRBR1vaRkb1iGVVUCACpH7tEMbXy4XDDC66v5TkKCERiLnasUqc0L53vCBm0
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>b11elLXTfwrRDrwa/bsm0kGbK34bfHM1f/5WeCEcZq+sDrolymWXScaMUG5KuJ/i
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Jt8hVQrQ5u8EoqtlBBADnXiBAGU8otjsUYeORj8hX4CLfLWTAKvPCfGF1bUd+JDF
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>SIgWdtHSHfkFmg3Pmm/mzu2hxyg3a/QAD+FmmpuRqH321yU1HPowyVIaaBrZd2nL
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>24ZhIXVkBocjRVi63TosvG8RRyAkYuQhIAzE/X2EkpAW1gPlTrN1PFdVouV5oUnx
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>P0GTRGbnH/wfDnIWkHq78a6bGcDBIRixzW7vCNH7hkLr
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>=TfEE
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-----END PGP PUBLIC KEY BLOCK-----
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
