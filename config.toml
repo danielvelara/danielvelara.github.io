@@ -28,6 +28,10 @@ url = "https://github.com/danielvelara"
 id = "linkedin"
 url = "https://www.linkedin.com/in/danielvelara/"
 
+[[params.social]]
+id = "btc"
+url = "https://getalby.com/p/danielvelara"
+
 
 [menu]
 
