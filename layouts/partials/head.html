@@ -47,7 +47,9 @@
     {{ partial "resource.html" (dict "context" . "type" "js" "filename" "js/copy-code.js") }}
 {{ end }}
 
-{{ if .Params.math }}{{ partial "helpers/katex.html" . }}{{ end }}
+{{ if or .Params.math .Site.Params.math }}
+  {{ partial "math.html" . }}
+{{ end }}
 
 {{ range .Site.Params.customJS -}}
   {{ partial "resource.html" (dict "context" $ "type" "js" "filename" . ) }}
