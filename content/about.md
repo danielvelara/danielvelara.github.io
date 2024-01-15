@@ -60,11 +60,15 @@ menu:
 ## Technical Skills
 
 - **Programming Languages**
-  - Fluent: Python, JavaScript/TypeScript, Elixir
-  - Proficient: Go, SQL, Bash
+  - Python
+  - JavaScript
+  - Elixir
+  - Go
+  - SQL
+  - Bash
 - **Technologies**
-  - Frontend: HTML5, CSS3, TailwindCSS, React + Redux, LiveView
-  - Backend: FastAPI, NestJS, NextJS, Phoenix, Supabase, Serverless
+  - Frontend: HTML5, CSS3, TailwindCSS, React, LiveView
+  - Backend: FastAPI, NextJS, Phoenix, Supabase, Serverless
   - DevOps: GNU/Linux, Docker, AWS, CI/CD, GitHub Actions
   - Databases: PostgreSQL, SQLite, MongoDB, Ecto, Prisma
   - App Development: React Native, PWA
@@ -81,7 +85,6 @@ menu:
 
 - Spanish (Native)
 - English (Business fluent)
-- Italian (Basics)
 
 ## Relevant Coursework & Certifications
 
