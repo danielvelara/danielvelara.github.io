@@ -106,6 +106,9 @@ menu:
 
 - Elixir + Phoenix
 
+## Articles I recommend
+- [The Grug Brained Developer - A layman's guide to thinking like the self-aware smol brained](https://grugbrain.dev/#grug-on-complexity)
+
 ## PGP Public Key
 
 ```txt
