@@ -90,14 +90,18 @@
 &lt;/h2>&lt;ul>
 &lt;li>&lt;strong>Programming Languages&lt;/strong>
 &lt;ul>
-&lt;li>Fluent: Python, JavaScript/TypeScript, Elixir&lt;/li>
-&lt;li>Proficient: Go, SQL, Bash&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>JavaScript&lt;/li>
+&lt;li>Elixir&lt;/li>
+&lt;li>Go&lt;/li>
+&lt;li>SQL&lt;/li>
+&lt;li>Bash&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;strong>Technologies&lt;/strong>
 &lt;ul>
-&lt;li>Frontend: HTML5, CSS3, TailwindCSS, React + Redux, LiveView&lt;/li>
-&lt;li>Backend: FastAPI, NestJS, NextJS, Phoenix, Supabase, Serverless&lt;/li>
+&lt;li>Frontend: HTML5, CSS3, TailwindCSS, React, LiveView&lt;/li>
+&lt;li>Backend: FastAPI, NextJS, Phoenix, Supabase, Serverless&lt;/li>
 &lt;li>DevOps: GNU/Linux, Docker, AWS, CI/CD, GitHub Actions&lt;/li>
 &lt;li>Databases: PostgreSQL, SQLite, MongoDB, Ecto, Prisma&lt;/li>
 &lt;li>App Development: React Native, PWA&lt;/li>
@@ -124,7 +128,6 @@
 &lt;/h2>&lt;ul>
 &lt;li>Spanish (Native)&lt;/li>
 &lt;li>English (Business fluent)&lt;/li>
-&lt;li>Italian (Basics)&lt;/li>
 &lt;/ul>
 &lt;h2 id="relevant-coursework--certifications" >Relevant Coursework &amp;amp; Certifications
 &lt;span>
