@@ -172,6 +172,15 @@
 &lt;/h2>&lt;ul>
 &lt;li>Elixir + Phoenix&lt;/li>
 &lt;/ul>
+&lt;h2 id="articles-i-recommend" >Articles I recommend
+&lt;span>
+&lt;a href="#articles-i-recommend">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://grugbrain.dev/#grug-on-complexity">The Grug Brained Developer - A layman&amp;rsquo;s guide to thinking like the self-aware smol brained&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="pgp-public-key" >PGP Public Key
 &lt;span>
 &lt;a href="#pgp-public-key">
@@ -398,7 +407,7 @@ Server -->> Client: Send Response
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
 &lt;/a>
 &lt;/span>
-&lt;/h3>&lt;script type="application/javascript" src="https://gist.github.com/spf13/7896402.js">&lt;/script>
+&lt;/h3>&lt;script src="https://gist.github.com/spf13/7896402.js">&lt;/script>
 &lt;h3 id="twitter" >Twitter
 &lt;span>
 &lt;a href="#twitter">
