@@ -1,110 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>/</link><description>danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Synergy of Minds</title><link>/posts/synergy/</link><pubDate>Tue, 23 Jan 2024 12:46:08 -0500</pubDate><guid>/posts/synergy/</guid><description>&lt;h3 id="synergy-of-minds" >Synergy of Minds
-&lt;span>
-&lt;a href="#synergy-of-minds">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h3>&lt;p>In the vast expanse of human endeavors,
-Where challenges immense, like stormy weathers,
-Loom large and daunting, beyond easy reach,
-We stand at the edge, on history&amp;rsquo;s beach.&lt;/p>
-&lt;p>We&amp;rsquo;ve built our empires, our sciences, our art,
-In moments of crisis, played our part.
-From the Empire State&amp;rsquo;s towering height,
-To war&amp;rsquo;s cryptic codes, broken by night.&lt;/p>
-&lt;p>With radar&amp;rsquo;s pulse and atomic fears,
-We&amp;rsquo;ve conquered doubts, outpaced our peers.
-But now we face a different test,
-Complex systems, a global quest.&lt;/p>
-&lt;p>Climate, health, and rights entwined,
-In the web of life, our fates are lined.
-Systems within systems, a dance of parts,
-A world of connections, of sciences and arts.&lt;/p>
-&lt;p>Alan Kay speaks of past and present,
-Of challenges met, and those incessant.
-Einstein&amp;rsquo;s wisdom, ringing true,
-New thinking needed, a broader view.&lt;/p>
-&lt;p>The Internet&amp;rsquo;s weave, a digital sea,
-Linking minds, setting ideas free.
-Yet still we falter, in nature&amp;rsquo;s gaze,
-Our planet warms, in a climate haze.&lt;/p>
-&lt;p>In every problem, lies the seed,
-Of knowledge and action, of future&amp;rsquo;s creed.
-Past achievements, like stars in night,
-Guide us forward, towards the light.&lt;/p>
-&lt;p>For in our hands, the tools reside,
-To forge a path, wide and wide.
-Systems thinking, a holistic frame,
-To understand, to play the game.&lt;/p>
-&lt;p>A community of minds, diverse and bright,
-Can find the paths, turn dark to light.
-Challenges immense, a daunting task,
-But in human spirit, let us bask.&lt;/p>
-&lt;p>For history shows, in times of need,
-From collective will, great deeds proceed.
-So, let us gather, think anew,
-For the challenges immense, we shall pursue.&lt;/p></description></item><item><title>About me</title><link>/about/</link><pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h2 id="experience" >Experience
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>/</link><description>danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>/about/</link><pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h2 id="experience" >Experience
 &lt;span>
 &lt;a href="#experience">
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
 &lt;/a>
 &lt;/span>
 &lt;/h2>&lt;ul>
-&lt;li>&lt;strong>C3.ai&lt;/strong> - Guadalajara, Jalisco, México
+&lt;li>
+&lt;p>&lt;strong>C3.ai&lt;/strong> - Guadalajara, Jalisco, México&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;em>Software Solution Engineer&lt;/em> | October 2023 - &lt;strong>Present&lt;/strong>&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>Development of an Energy Management Application&lt;/li>
-&lt;li>Implementation of testing to validation of critical business logic&lt;/li>
+&lt;li>Development and productionalization of custom-made proprietary ML/AI applications delivering clear business value for a variety of industries (Energy Management, Demand Forecasting, Process Optimization) while establishing communication with key stakeholders (task planning, requirement clarification, presentations) and close collaboration with Data Engineers, Data Scientists, DevOps, QA, Designers and Project Managers&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;strong>SoftServe&lt;/strong> - Guadalajara, Jalisco, México
+&lt;li>
+&lt;p>&lt;strong>SoftServe&lt;/strong> - Guadalajara, Jalisco, México&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;em>Fullstack Software Engineer&lt;/em> | August 2022 - September 2023&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>Developing modern and scalable web applications with &lt;strong>React/Redux/TypeScript&lt;/strong> + &lt;strong>Python/FastAPI&lt;/strong> on &lt;strong>Azure&lt;/strong>&lt;/li>
+&lt;li>Worked on a real-time WebApp using the PETAL stack (&lt;strong>Phoenix, Elixir, TailwindCSS, Alpine.js, LiveView&lt;/strong>) with &lt;strong>PostgreSQL&lt;/strong> + &lt;strong>Ecto&lt;/strong> leveraging the &lt;strong>OTP&lt;/strong> architecture with custom GenServers and unit tests with &lt;strong>ExUnit&lt;/strong>&lt;/li>
+&lt;li>Designed &lt;strong>REST APIs in Python (FastAPI)&lt;/strong> with &lt;strong>Azure CosmosDB + Azure Data Explorer + KQL&lt;/strong> and frontend UI&amp;rsquo;s in &lt;strong>React / Redux + TailwindCSS&lt;/strong>.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;strong>Hewlett-Packard&lt;/strong> (HP, inc) - Guadalajara, Jalisco, México
+&lt;li>
+&lt;p>&lt;strong>Hewlett-Packard&lt;/strong> (HP, inc) - Guadalajara, Jalisco, México&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;em>R&amp;amp;D Software Engineer Intern&lt;/em> | June 2021 - July 2022&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>Developed and refactored internal tools using modern web technologies with &lt;strong>React/Redux&lt;/strong>&lt;/li>
-&lt;li>Assisted the DevOps team to migrate legacy applications to &lt;strong>AWS&lt;/strong> using &lt;strong>CloudFormation&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;!--- - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.--->
-&lt;ul>
-&lt;li>Collaborated with multi-national and cross-functional teams using &lt;strong>Agile&lt;/strong> methodologies&lt;/li>
+&lt;li>Implementation of a Serverless architecture, reducing operational costs and improving scalability. Utilized &lt;strong>AWS Lambda (Go) , API Gateway , S3 , DynamoDB , and CloudWatch&lt;/strong> for a fully &lt;strong>Serverless&lt;/strong> stack.&lt;/li>
+&lt;li>Developed and refactored internal tools using &lt;strong>React/Redux/MaterialUI&lt;/strong> with collaboration of multi-national and cross-functional teams using &lt;strong>Agile&lt;/strong>.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;strong>Uber México&lt;/strong> - Guadalajara, Jalisco, México
+&lt;li>
+&lt;p>&lt;strong>Uber México&lt;/strong> - Guadalajara, Jalisco, México&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;em>Software Engineering Academic Apprenticeship&lt;/em> | March 2021 - June 2021&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>Assisted the Analytics Team on refactoring multiple Jupyter Notebooks into a fully featured microservice with &lt;strong>Python/FastAPI&lt;/strong> and deployed using &lt;strong>Docker&lt;/strong> by distilling and analyzing critical parts of the codebase and making a fully working PoC internal service.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;strong>Usuma México&lt;/strong> (Non-Profit Education Center) - Guadalajara, Jalisco, México
-&lt;blockquote>
-&lt;p>&lt;em>Web Developer (Volunteering)&lt;/em> | Dec 2020 - February 2021&lt;/p>
-&lt;/blockquote>
-&lt;ul>
-&lt;li>Created and maintained a website using &lt;strong>HTML/CSS/JS&lt;/strong> deployed to &lt;strong>Heroku&lt;/strong> for a Non-Profit focused on educating children from low-income families&lt;/li>
-&lt;li>Implemented a &lt;strong>Paypal&lt;/strong> donations feature, increasing donations by (15%) compared to previous months and donation methods.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;strong>Bright&lt;/strong> (Solar Technology Company) - Guadalajara, Jalisco, México
-&lt;blockquote>
-&lt;p>&lt;em>Software Development Intern &amp;amp; Sales Rep&lt;/em> | June 2019 - Jan 2020&lt;/p>
-&lt;/blockquote>
-&lt;ul>
-&lt;li>Developed &lt;strong>Python&lt;/strong> Scripts for automating and accelerating in-house systems for project budgeting reducing &lt;strong>90%&lt;/strong> of manual work for the Sales Team&lt;/li>
-&lt;li>Competitively analyzed new domestic solar projects in local and regional territories&lt;/li>
-&lt;li>Performed comprehensive market research on multiple solar technologies&lt;/li>
+&lt;li>Helped the Analytics Team to refactor &lt;strong>Jupyter Notebooks&lt;/strong> into a microservice with &lt;strong>Python/FastAPI&lt;/strong> and deployed using &lt;strong>Docker&lt;/strong> by analyzing critical parts of the codebase and making a fully working internal service.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -133,32 +69,34 @@ For the challenges immense, we shall pursue.&lt;/p></description></item><item><t
 &lt;/a>
 &lt;/span>
 &lt;/h2>&lt;ul>
-&lt;li>&lt;strong>Programming Languages&lt;/strong>
+&lt;li>
+&lt;p>&lt;strong>Programming Languages&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Python&lt;/li>
-&lt;li>JavaScript&lt;/li>
 &lt;li>Elixir&lt;/li>
 &lt;li>Go&lt;/li>
+&lt;li>Python&lt;/li>
+&lt;li>JavaScript&lt;/li>
 &lt;li>SQL&lt;/li>
 &lt;li>Bash&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;strong>Technologies&lt;/strong>
+&lt;li>
+&lt;p>&lt;strong>Technologies&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Frontend: HTML5, CSS3, TailwindCSS, React, LiveView&lt;/li>
-&lt;li>Backend: FastAPI, NextJS, Phoenix, Supabase, Serverless&lt;/li>
-&lt;li>DevOps: GNU/Linux, Docker, AWS, CI/CD, GitHub Actions&lt;/li>
-&lt;li>Databases: PostgreSQL, SQLite, MongoDB, Ecto, Prisma&lt;/li>
-&lt;li>App Development: React Native, PWA&lt;/li>
+&lt;li>Frontend: HTML5, CSS3, TailwindCSS, React/Native/NextJS, LiveView&lt;/li>
+&lt;li>Backend: Phoenix/LiveView, FastAPI, AWS Lambda&lt;/li>
+&lt;li>Databases: PostgreSQL, SQLite, MongoDB, Ecto&lt;/li>
+&lt;li>Data: Job Scheduling, MapReduce, Queues&lt;/li>
+&lt;li>Testing: TDD, Jest/Vitest, Playwright, ExUnit&lt;/li>
+&lt;li>DevOps: GNU/Linux, Docker, Nix, AWS, Serverless, CI/CD, GitHub Actions&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;strong>Tools &amp;amp; Knowledge&lt;/strong>
+&lt;li>
+&lt;p>&lt;strong>Tools &amp;amp; Knowledge&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Git/GitHub/GitFlow&lt;/li>
 &lt;li>Project Management: Agile/Scrum, Jira&lt;/li>
 &lt;li>Networking: REST API&amp;rsquo;s, OpenAPI/Swagger, WebSockets&lt;/li>
-&lt;li>Testing: TDD, RTL, Storybook, Jest/Vitest, Playwright, ExUnit&lt;/li>
-&lt;li>OOP&lt;/li>
 &lt;li>Data Structures &amp;amp; Algorithms&lt;/li>
 &lt;li>Security: HTTPS, OAuth2 &amp;amp; OpenID Connect, OWASP Top 10&lt;/li>
 &lt;/ul>
@@ -174,52 +112,20 @@ For the challenges immense, we shall pursue.&lt;/p></description></item><item><t
 &lt;li>Spanish (Native)&lt;/li>
 &lt;li>English (Business fluent)&lt;/li>
 &lt;/ul>
-&lt;h2 id="relevant-coursework--certifications" >Relevant Coursework &amp;amp; Certifications
-&lt;span>
-&lt;a href="#relevant-coursework--certifications">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;!-- - **AWS Certified Developer Associate** by _AWS Training and Certification_ -->
+&lt;!-- ## Relevant Coursework &amp; Certifications -->
+&lt;!-- - **AWS Certified Developer Associate** by _AWS Training and Certification_ -->
 &lt;!-- - **IT Automation with Python** Professional Certificate by _Google/Coursera_ -->
 &lt;!-- - **Project Management: Professional Certificate** by _Google/Coursera_ -->
 &lt;!-- - **Algorithms Specialization** by _Stanford/Coursera_ -->
-&lt;ul>
-&lt;li>&lt;strong>Open Source Software Development, Linux and Git Specialization&lt;/strong> by &lt;em>THe Linux Foundation&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;h2 id="projects" >Projects
-&lt;span>
-&lt;a href="#projects">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://github.com/danielvelara/ChaleBache-rn">&lt;strong>Pothole Detection System&lt;/strong>&lt;/a>, Fall 2021
-&lt;ul>
-&lt;li>Built and deployed a mobile application using &lt;strong>React Native + Expo&lt;/strong> for users to detect potholes while driving using their smartphone sensors&lt;/li>
-&lt;li>Created a WebApp using &lt;strong>HTML/CSS/JS/React&lt;/strong> using &lt;strong>Google Maps API&lt;/strong> for displaying multiple potholes detected in a city.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="https://github.com/danielvelara/CovidVaccinationSimulation">&lt;strong>Covid-19 Vaccination Simulation&lt;/strong>&lt;/a>, Summer 2021
-&lt;ul>
-&lt;li>Built an Agent-based modeling simulation using &lt;strong>Python3&lt;/strong> and &lt;strong>Mesa Framework&lt;/strong> for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="https://github.com/danielvelara/SlackyToDo">&lt;strong>ToDo&amp;rsquo;s online service&lt;/strong>&lt;/a>, Summer 2020
-&lt;ul>
-&lt;li>Implemented a CRUD WebApp using the &lt;strong>MVC&lt;/strong> Pattern with &lt;strong>Python/Flask&lt;/strong> (Backend) and &lt;strong>HTML/CSS/Vanilla JS&lt;/strong> (frontend) with User Authentication/Authorization/Sessions with &lt;strong>Firebase&lt;/strong> + &lt;strong>SQLite&lt;/strong> as the backend database for the service.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="currently-learning" >Currently Learning
-&lt;span>
-&lt;a href="#currently-learning">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;ul>
-&lt;li>Elixir + Phoenix&lt;/li>
-&lt;/ul>
+&lt;!-- - **Open Source Software Development, Linux and Git Specialization** by _The Linux Foundation_ -->
+&lt;!-- ## Projects -->
+&lt;!-- - [**Pothole Detection System**](https://github.com/danielvelara/ChaleBache-rn), Fall 2021 -->
+&lt;!-- - Built and deployed a mobile application using **React Native + Expo** for users to detect potholes while driving using their smartphone sensors -->
+&lt;!-- - Created a WebApp using **HTML/CSS/JS/React** using **Google Maps API** for displaying multiple potholes detected in a city. -->
+&lt;!-- - [**Covid-19 Vaccination Simulation**](https://github.com/danielvelara/CovidVaccinationSimulation), Summer 2021 -->
+&lt;!-- - Built an Agent-based modeling simulation using **Python3** and **Mesa Framework** for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks. -->
+&lt;!-- - [**ToDo's online service**](https://github.com/danielvelara/SlackyToDo), Summer 2020 -->
+&lt;!-- - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service. -->
 &lt;h2 id="pgp-public-key" >PGP Public Key
 &lt;span>
 &lt;a href="#pgp-public-key">
@@ -278,218 +184,4 @@ For the challenges immense, we shall pursue.&lt;/p></description></item><item><t
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>LabYwu+R/7AMdKF9v5GX6B24
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>=gfFf
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-----END PGP PUBLIC KEY BLOCK-----
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>LaTeX</title><link>/posts/latex/</link><pubDate>Mon, 26 Sep 2022 17:54:46 -0500</pubDate><guid>/posts/latex/</guid><description>&lt;blockquote>
-&lt;p>You can embed KaTeX/LaTeX in Hugo&lt;/p>
-&lt;/blockquote>
-&lt;script>
-document.addEventListener("DOMContentLoaded", function() {
-renderMathInElement(document.body, {
-delimiters: [
-{left: "$$", right: "$$", display: true},
-{left: "$", right: "$", display: false}
-]
-});
-});
-&lt;/script>
-&lt;h2 id="inline-math" >Inline Math
-&lt;span>
-&lt;a href="#inline-math">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;p>Check out this equation $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$ so cool!&lt;/p>
-&lt;h2 id="math-block" >Math Block
-&lt;span>
-&lt;a href="#math-block">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;p>$$
-\iiint_{x-1}^{x+1}{f(x)dxdydz}
-$$&lt;/p></description></item><item><title>Create diagrams as code with Mermaid</title><link>/posts/mermaid/</link><pubDate>Mon, 26 Sep 2022 12:46:08 -0500</pubDate><guid>/posts/mermaid/</guid><description>&lt;h3 id="mermiad" >Mermiad
-&lt;span>
-&lt;a href="#mermiad">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h3>&lt;script
-async
-type="application/javascript"
-src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"
->
-var config = {
-startOnLoad:true,
-theme:'neutral',
-align:'left'
-};
-mermaid.initialize(config);
-&lt;/script>
-&lt;div class="mermaid">
-sequenceDiagram
-title Token Based
-Client ->> Server: POST /login &lt;br> {email,password}
-Note right of Server: Create JWT for User &lt;br> w/ secret
-Server -->> Client: Send JWT
-Note left of Client: Store Token &lt;br> as localStorage
-Client ->> Server: Send Request &lt;br> with JWT &lt;br> In Header (Authorization:BearerToken )
-Note right of Server: Verify JWT Signature
-Server -->> Client: Send Response
-&lt;/div></description></item><item><title>FastAPI Tutorial</title><link>/posts/fastapi/fastapi/</link><pubDate>Sun, 25 Sep 2022 12:46:08 -0500</pubDate><guid>/posts/fastapi/fastapi/</guid><description>&lt;blockquote>
-&lt;p>FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.&lt;/p>
-&lt;/blockquote>
-&lt;p>&lt;img src="/img/fastapi.png" alt="img">&lt;/p>
-&lt;h2 id="hello-world" >Hello World
-&lt;span>
-&lt;a href="#hello-world">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;">&lt;code class="language-py" data-lang="py">&lt;span style="display:flex; background-color:#3c3d38">&lt;span>&lt;span style="color:#f92672">from&lt;/span> fastapi &lt;span style="color:#f92672">import&lt;/span> FastAPI
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>app &lt;span style="color:#f92672">=&lt;/span> FastAPI()
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3c3d38">&lt;span>&lt;span style="color:#a6e22e">@app.get&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;/&amp;#39;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3c3d38">&lt;span>&lt;span style="color:#66d9ef">async&lt;/span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">root&lt;/span>():
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> {&lt;span style="color:#e6db74">&amp;#39;message&amp;#39;&lt;/span>: &lt;span style="color:#e6db74">&amp;#39;Hello World&amp;#39;&lt;/span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Hugo Tutorial</title><link>/posts/hugo/</link><pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate><guid>/posts/hugo/</guid><description>&lt;h2 id="other-elements--abbr-sub-sup-kbd-mark" >Other Elements — abbr, sub, sup, kbd, mark
-&lt;span>
-&lt;a href="#other-elements--abbr-sub-sup-kbd-mark">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;p>&lt;abbr title="Graphics Interchange Format">GIF&lt;/abbr> is a bitmap image format.&lt;/p>
-&lt;p>H&lt;sub>2&lt;/sub>O&lt;/p>
-&lt;p>X&lt;sup>n&lt;/sup> + Y&lt;sup>n&lt;/sup> = Z&lt;sup>n&lt;/sup>&lt;/p>
-&lt;p>Press &lt;kbd>&lt;kbd>CTRL&lt;/kbd>+&lt;kbd>ALT&lt;/kbd>+&lt;kbd>Delete&lt;/kbd>&lt;/kbd> to end the session.&lt;/p>
-&lt;p>Most &lt;mark>salamanders&lt;/mark> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
-&lt;h1 id="h1" >H1
-&lt;span>
-&lt;a href="#h1">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h1>&lt;h2 id="h2" >H2
-&lt;span>
-&lt;a href="#h2">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;h3 id="h3" >H3
-&lt;span>
-&lt;a href="#h3">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h3>&lt;h4 id="h4" >H4
-&lt;span>
-&lt;a href="#h4">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h4>&lt;h5 id="h5" >H5
-&lt;span>
-&lt;a href="#h5">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h5>&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Name&lt;/th>
-&lt;th>Age&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Bob&lt;/td>
-&lt;td>27&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Alice&lt;/td>
-&lt;td>23&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>This is a lie &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-py" data-lang="py">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">from&lt;/span> fastapi &lt;span style="color:#f92672">import&lt;/span> FastAPI
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>app &lt;span style="color:#f92672">=&lt;/span> FastAPI()
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#a6e22e">@app.get&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;/&amp;#39;&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">async&lt;/span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">root&lt;/span>():
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> {&lt;span style="color:#e6db74">&amp;#39;message&amp;#39;&lt;/span>: &lt;span style="color:#e6db74">&amp;#39;Hello World&amp;#39;&lt;/span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;display:grid;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex; background-color:#3c3d38">&lt;span>&lt;span style="color:#f92672">package&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">import&lt;/span> (
-&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3c3d38">&lt;span> &lt;span style="color:#e6db74">&amp;#34;fmt&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3c3d38">&lt;span> &lt;span style="color:#e6db74">&amp;#34;net/http&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#e6db74">&amp;#34;time&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">func&lt;/span> &lt;span style="color:#a6e22e">greet&lt;/span>(&lt;span style="color:#a6e22e">w&lt;/span> &lt;span style="color:#a6e22e">http&lt;/span>.&lt;span style="color:#a6e22e">ResponseWriter&lt;/span>, &lt;span style="color:#a6e22e">r&lt;/span> &lt;span style="color:#f92672">*&lt;/span>&lt;span style="color:#a6e22e">http&lt;/span>.&lt;span style="color:#a6e22e">Request&lt;/span>) {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">fmt&lt;/span>.&lt;span style="color:#a6e22e">Fprintf&lt;/span>(&lt;span style="color:#a6e22e">w&lt;/span>, &lt;span style="color:#e6db74">&amp;#34;Hello World! %s&amp;#34;&lt;/span>, &lt;span style="color:#a6e22e">time&lt;/span>.&lt;span style="color:#a6e22e">Now&lt;/span>())
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">func&lt;/span> &lt;span style="color:#a6e22e">main&lt;/span>() {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">http&lt;/span>.&lt;span style="color:#a6e22e">HandleFunc&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;/&amp;#34;&lt;/span>, &lt;span style="color:#a6e22e">greet&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#a6e22e">http&lt;/span>.&lt;span style="color:#a6e22e">ListenAndServe&lt;/span>(&lt;span style="color:#e6db74">&amp;#34;:8080&amp;#34;&lt;/span>, &lt;span style="color:#66d9ef">nil&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;dl>
-&lt;dt>Term&lt;/dt>
-&lt;dd>Definition&lt;/dd>
-&lt;/dl>
-&lt;h2 id="shortcodes" >Shortcodes
-&lt;span>
-&lt;a href="#shortcodes">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;h3 id="youtube-privacy-enhanced-shortcode" >YouTube Privacy Enhanced Shortcode
-&lt;span>
-&lt;a href="#youtube-privacy-enhanced-shortcode">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h3>
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ZJthWmvUzzc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
->&lt;/iframe>
-&lt;/div>
-&lt;h3 id="caption" >Caption
-&lt;span>
-&lt;a href="#caption">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h3>&lt;figure>&lt;img src="/img/doge.png">&lt;figcaption>
-&lt;h4>Doge Coin&lt;/h4>
-&lt;/figcaption>
-&lt;/figure>
-&lt;p>&lt;img src="/img/doge.png" alt="Doge">&lt;/p>
-&lt;h3 id="github-gist" >GitHub gist
-&lt;span>
-&lt;a href="#github-gist">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h3>&lt;script src="https://gist.github.com/spf13/7896402.js">&lt;/script>
-&lt;h3 id="twitter" >Twitter
-&lt;span>
-&lt;a href="#twitter">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h3>&lt;blockquote class="twitter-tweet">&lt;p lang="en" dir="ltr">Owl bet you&amp;#39;ll lose this staring contest 🦉 &lt;a href="https://t.co/eJh4f2zncC">pic.twitter.com/eJh4f2zncC&lt;/a>&lt;/p>&amp;mdash; San Diego Zoo Wildlife Alliance (@sandiegozoo) &lt;a href="https://twitter.com/sandiegozoo/status/1453110110599868418?ref_src=twsrc%5Etfw">October 26, 2021&lt;/a>&lt;/blockquote>
-&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8">&lt;/script>
-&lt;div class="footnotes" role="doc-endnotes">
-&lt;hr>
-&lt;ol>
-&lt;li id="fn:1">
-&lt;p>This is not a lie&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;/div></description></item><item><title>1</title><link>/projects/1/</link><pubDate>Wed, 21 Sep 2022 23:18:33 -0500</pubDate><guid>/projects/1/</guid><description/></item><item><title>Autobiography</title><link>/autobiography/</link><pubDate>Wed, 21 Sep 2022 22:44:59 -0500</pubDate><guid>/autobiography/</guid><description>&lt;h1 id="autobiography" >Autobiography
-&lt;span>
-&lt;a href="#autobiography">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h1></description></item></channel></rss>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>1</title><link>/projects/1/</link><pubDate>Wed, 21 Sep 2022 23:18:33 -0500</pubDate><guid>/projects/1/</guid><description/></item></channel></rss>
