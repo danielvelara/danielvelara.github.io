@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>https://danielvelara.github.io/</link><description>danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="https://danielvelara.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Synergy of Minds</title><link>https://danielvelara.github.io/posts/synergy/</link><pubDate>Tue, 23 Jan 2024 12:46:08 -0500</pubDate><guid>https://danielvelara.github.io/posts/synergy/</guid><description>&lt;h3 id="synergy-of-minds" >Synergy of Minds
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>/</link><description>danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Synergy of Minds</title><link>/posts/synergy/</link><pubDate>Tue, 23 Jan 2024 12:46:08 -0500</pubDate><guid>/posts/synergy/</guid><description>&lt;h3 id="synergy-of-minds" >Synergy of Minds
 &lt;span>
 &lt;a href="#synergy-of-minds">
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
@@ -43,7 +43,7 @@ But in human spirit, let us bask.&lt;/p>
 &lt;p>For history shows, in times of need,
 From collective will, great deeds proceed.
 So, let us gather, think anew,
-For the challenges immense, we shall pursue.&lt;/p></description></item><item><title>About me</title><link>https://danielvelara.github.io/about/</link><pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate><guid>https://danielvelara.github.io/about/</guid><description>&lt;h2 id="experience" >Experience
+For the challenges immense, we shall pursue.&lt;/p></description></item><item><title>About me</title><link>/about/</link><pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h2 id="experience" >Experience
 &lt;span>
 &lt;a href="#experience">
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
@@ -278,7 +278,7 @@ For the challenges immense, we shall pursue.&lt;/p></description></item><item><t
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>LabYwu+R/7AMdKF9v5GX6B24
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>=gfFf
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-----END PGP PUBLIC KEY BLOCK-----
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>LaTeX</title><link>https://danielvelara.github.io/posts/latex/</link><pubDate>Mon, 26 Sep 2022 17:54:46 -0500</pubDate><guid>https://danielvelara.github.io/posts/latex/</guid><description>&lt;blockquote>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>LaTeX</title><link>/posts/latex/</link><pubDate>Mon, 26 Sep 2022 17:54:46 -0500</pubDate><guid>/posts/latex/</guid><description>&lt;blockquote>
 &lt;p>You can embed KaTeX/LaTeX in Hugo&lt;/p>
 &lt;/blockquote>
 &lt;script>
@@ -306,7 +306,7 @@ delimiters: [
 &lt;/span>
 &lt;/h2>&lt;p>$$
 \iiint_{x-1}^{x+1}{f(x)dxdydz}
-$$&lt;/p></description></item><item><title>Create diagrams as code with Mermaid</title><link>https://danielvelara.github.io/posts/mermaid/</link><pubDate>Mon, 26 Sep 2022 12:46:08 -0500</pubDate><guid>https://danielvelara.github.io/posts/mermaid/</guid><description>&lt;h3 id="mermiad" >Mermiad
+$$&lt;/p></description></item><item><title>Create diagrams as code with Mermaid</title><link>/posts/mermaid/</link><pubDate>Mon, 26 Sep 2022 12:46:08 -0500</pubDate><guid>/posts/mermaid/</guid><description>&lt;h3 id="mermiad" >Mermiad
 &lt;span>
 &lt;a href="#mermiad">
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
@@ -334,10 +334,10 @@ Note left of Client: Store Token &lt;br> as localStorage
 Client ->> Server: Send Request &lt;br> with JWT &lt;br> In Header (Authorization:BearerToken )
 Note right of Server: Verify JWT Signature
 Server -->> Client: Send Response
-&lt;/div></description></item><item><title>FastAPI Tutorial</title><link>https://danielvelara.github.io/posts/fastapi/fastapi/</link><pubDate>Sun, 25 Sep 2022 12:46:08 -0500</pubDate><guid>https://danielvelara.github.io/posts/fastapi/fastapi/</guid><description>&lt;blockquote>
+&lt;/div></description></item><item><title>FastAPI Tutorial</title><link>/posts/fastapi/fastapi/</link><pubDate>Sun, 25 Sep 2022 12:46:08 -0500</pubDate><guid>/posts/fastapi/fastapi/</guid><description>&lt;blockquote>
 &lt;p>FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.&lt;/p>
 &lt;/blockquote>
-&lt;p>&lt;img src="https://danielvelara.github.io/img/fastapi.png" alt="img">&lt;/p>
+&lt;p>&lt;img src="/img/fastapi.png" alt="img">&lt;/p>
 &lt;h2 id="hello-world" >Hello World
 &lt;span>
 &lt;a href="#hello-world">
@@ -350,7 +350,7 @@ Server -->> Client: Send Response
 &lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3c3d38">&lt;span>&lt;span style="color:#a6e22e">@app.get&lt;/span>(&lt;span style="color:#e6db74">&amp;#39;/&amp;#39;&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex; background-color:#3c3d38">&lt;span>&lt;span style="color:#66d9ef">async&lt;/span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">root&lt;/span>():
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> {&lt;span style="color:#e6db74">&amp;#39;message&amp;#39;&lt;/span>: &lt;span style="color:#e6db74">&amp;#39;Hello World&amp;#39;&lt;/span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Hugo Tutorial</title><link>https://danielvelara.github.io/posts/hugo/</link><pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate><guid>https://danielvelara.github.io/posts/hugo/</guid><description>&lt;h2 id="other-elements--abbr-sub-sup-kbd-mark" >Other Elements — abbr, sub, sup, kbd, mark
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Hugo Tutorial</title><link>/posts/hugo/</link><pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate><guid>/posts/hugo/</guid><description>&lt;h2 id="other-elements--abbr-sub-sup-kbd-mark" >Other Elements — abbr, sub, sup, kbd, mark
 &lt;span>
 &lt;a href="#other-elements--abbr-sub-sup-kbd-mark">
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
@@ -450,7 +450,8 @@ Server -->> Client: Send Response
 &lt;/span>
 &lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/ZJthWmvUzzc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ZJthWmvUzzc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+>&lt;/iframe>
 &lt;/div>
 &lt;h3 id="caption" >Caption
 &lt;span>
@@ -458,11 +459,11 @@ Server -->> Client: Send Response
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
 &lt;/a>
 &lt;/span>
-&lt;/h3>&lt;figure>&lt;img src="https://danielvelara.github.io/img/doge.png"/>&lt;figcaption>
+&lt;/h3>&lt;figure>&lt;img src="/img/doge.png">&lt;figcaption>
 &lt;h4>Doge Coin&lt;/h4>
 &lt;/figcaption>
 &lt;/figure>
-&lt;p>&lt;img src="https://danielvelara.github.io/img/doge.png" alt="Doge">&lt;/p>
+&lt;p>&lt;img src="/img/doge.png" alt="Doge">&lt;/p>
 &lt;h3 id="github-gist" >GitHub gist
 &lt;span>
 &lt;a href="#github-gist">
@@ -485,7 +486,7 @@ Server -->> Client: Send Response
 &lt;p>This is not a lie&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>1</title><link>https://danielvelara.github.io/projects/1/</link><pubDate>Wed, 21 Sep 2022 23:18:33 -0500</pubDate><guid>https://danielvelara.github.io/projects/1/</guid><description/></item><item><title>Autobiography</title><link>https://danielvelara.github.io/autobiography/</link><pubDate>Wed, 21 Sep 2022 22:44:59 -0500</pubDate><guid>https://danielvelara.github.io/autobiography/</guid><description>&lt;h1 id="autobiography" >Autobiography
+&lt;/div></description></item><item><title>1</title><link>/projects/1/</link><pubDate>Wed, 21 Sep 2022 23:18:33 -0500</pubDate><guid>/projects/1/</guid><description/></item><item><title>Autobiography</title><link>/autobiography/</link><pubDate>Wed, 21 Sep 2022 22:44:59 -0500</pubDate><guid>/autobiography/</guid><description>&lt;h1 id="autobiography" >Autobiography
 &lt;span>
 &lt;a href="#autobiography">
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
