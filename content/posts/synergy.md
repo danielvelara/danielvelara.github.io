@@ -2,7 +2,7 @@
 title: "Synergy of Minds"
 date: 2024-01-23T12:46:08-05:00
 author: Daniel Velázquez
-draft: false
+draft: true
 tags: ["art", "poems"]
 ---
 

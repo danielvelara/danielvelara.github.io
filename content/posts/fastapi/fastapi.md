@@ -2,7 +2,7 @@
 title: "FastAPI Tutorial"
 date: 2022-09-25T12:46:08-05:00
 author: Daniel Velázquez
-draft: false
+draft: true
 tags: ["python", "fastapi"]
 ---
 

@@ -2,8 +2,7 @@
 title: "Hugo Tutorial"
 author: Daniel Velázquez
 date: 2022-09-25
-
-draft: false
+draft: true
 ---
 
 ## Other Elements — abbr, sub, sup, kbd, mark

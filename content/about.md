@@ -1,54 +1,54 @@
 ---
 title: "About me"
-description: "Hugo, the world’s fastest framework for building websites"
+description: "Description about myself"
 date: "2023-11-22"
-aliases: ["about-us", "about-hugo", "contact"]
-author: "Hugo Authors"
-tags: ["personal"]
-menu:
-  about:
-    identifier: about-subpage
-    parent: about
-    name: About Subpage
-    title: About Subpage
-    url: /about/subpage/
-    weight: 1
-  subpage:
-    identifier: about-subpage2
-    parent: about
-    name: Second About subpage
-    title: Second About subpage
-    url: /about/subpage2/
-    weight: 10
+# aliases: ["about-us", "about-hugo", "contact"]
+# author: "Hugo Authors"
+# tags: ["personal"]
+# menu:
+#   about:
+#     identifier: about-subpage
+#     parent: about
+#     name: About Subpage
+#     title: About Subpage
+#     url: /about/subpage/
+#     weight: 1
+#   subpage:
+#     identifier: about-subpage2
+#     parent: about
+#     name: Second About subpage
+#     title: Second About subpage
+#     url: /about/subpage2/
+#     weight: 10
 ---
 
 ## Experience
 
 - **C3.ai** - Guadalajara, Jalisco, México
+
   > _Software Solution Engineer_ | October 2023 - **Present**
-  - Development of an Energy Management Application
-  - Implementation of testing to validation of critical business logic
+
+  - Development and productionalization of custom-made proprietary ML/AI applications delivering clear business value for a variety of industries (Energy Management, Demand Forecasting, Process Optimization) while establishing communication with key stakeholders (task planning, requirement clarification, presentations) and close collaboration with Data Engineers, Data Scientists, DevOps, QA, Designers and Project Managers
+
 - **SoftServe** - Guadalajara, Jalisco, México
+
   > _Fullstack Software Engineer_ | August 2022 - September 2023
-  - Developing modern and scalable web applications with **React/Redux/TypeScript** + **Python/FastAPI** on **Azure**
+
+  - Worked on a real-time WebApp using the PETAL stack (**Phoenix, Elixir, TailwindCSS, Alpine.js, LiveView**) with **PostgreSQL** + **Ecto** leveraging the **OTP** architecture with custom GenServers and unit tests with **ExUnit**
+  - Designed **REST APIs in Python (FastAPI)** with **Azure CosmosDB + Azure Data Explorer + KQL** and frontend UI's in **React / Redux + TailwindCSS**.
+
 - **Hewlett-Packard** (HP, inc) - Guadalajara, Jalisco, México
+
   > _R&D Software Engineer Intern_ | June 2021 - July 2022
-  - Developed and refactored internal tools using modern web technologies with **React/Redux**
-  - Assisted the DevOps team to migrate legacy applications to **AWS** using **CloudFormation**
-  <!--- - Reduced deploy time up-to 70% by implementing a CI/CD pipeline using AWS CodeCommit which helped product managers validate features 2x faster.--->
-  - Collaborated with multi-national and cross-functional teams using **Agile** methodologies
+
+  - Implementation of a Serverless architecture, reducing operational costs and improving scalability. Utilized **AWS Lambda (Go) , API Gateway , S3 , DynamoDB , and CloudWatch** for a fully **Serverless** stack.
+  - Developed and refactored internal tools using **React/Redux/MaterialUI** with collaboration of multi-national and cross-functional teams using **Agile**.
+
 - **Uber México** - Guadalajara, Jalisco, México
+
   > _Software Engineering Academic Apprenticeship_ | March 2021 - June 2021
-  - Assisted the Analytics Team on refactoring multiple Jupyter Notebooks into a fully featured microservice with **Python/FastAPI** and deployed using **Docker** by distilling and analyzing critical parts of the codebase and making a fully working PoC internal service.
-- **Usuma México** (Non-Profit Education Center) - Guadalajara, Jalisco, México
-  > _Web Developer (Volunteering)_ | Dec 2020 - February 2021
-  - Created and maintained a website using **HTML/CSS/JS** deployed to **Heroku** for a Non-Profit focused on educating children from low-income families
-  - Implemented a **Paypal** donations feature, increasing donations by (15%) compared to previous months and donation methods.
-- **Bright** (Solar Technology Company) - Guadalajara, Jalisco, México
-  > _Software Development Intern & Sales Rep_ | June 2019 - Jan 2020
-  - Developed **Python** Scripts for automating and accelerating in-house systems for project budgeting reducing **90%** of manual work for the Sales Team
-  - Competitively analyzed new domestic solar projects in local and regional territories
-  - Performed comprehensive market research on multiple solar technologies
+
+  - Helped the Analytics Team to refactor **Jupyter Notebooks** into a microservice with **Python/FastAPI** and deployed using **Docker** by analyzing critical parts of the codebase and making a fully working internal service.
 
 ## Education
 
@@ -60,24 +60,25 @@ menu:
 ## Technical Skills
 
 - **Programming Languages**
-  - Python
-  - JavaScript
   - Elixir
   - Go
+  - Python
+  - JavaScript
   - SQL
   - Bash
 - **Technologies**
-  - Frontend: HTML5, CSS3, TailwindCSS, React, LiveView
-  - Backend: FastAPI, NextJS, Phoenix, Supabase, Serverless
-  - DevOps: GNU/Linux, Docker, AWS, CI/CD, GitHub Actions
-  - Databases: PostgreSQL, SQLite, MongoDB, Ecto, Prisma
-  - App Development: React Native, PWA
+
+  - Frontend: HTML5, CSS3, TailwindCSS, React/Native/NextJS, LiveView
+  - Backend: Phoenix/LiveView, FastAPI, AWS Lambda
+  - Databases: PostgreSQL, SQLite, MongoDB, Ecto
+  - Data: Job Scheduling, MapReduce, Queues
+  - Testing: TDD, Jest/Vitest, Playwright, ExUnit
+  - DevOps: GNU/Linux, Docker, Nix, AWS, Serverless, CI/CD, GitHub Actions
+
 - **Tools & Knowledge**
   - Git/GitHub/GitFlow
   - Project Management: Agile/Scrum, Jira
   - Networking: REST API's, OpenAPI/Swagger, WebSockets
-  - Testing: TDD, RTL, Storybook, Jest/Vitest, Playwright, ExUnit
-  - OOP
   - Data Structures & Algorithms
   - Security: HTTPS, OAuth2 & OpenID Connect, OWASP Top 10
 
@@ -86,28 +87,24 @@ menu:
 - Spanish (Native)
 - English (Business fluent)
 
-## Relevant Coursework & Certifications
+<!-- ## Relevant Coursework & Certifications -->
 
 <!-- - **AWS Certified Developer Associate** by _AWS Training and Certification_ -->
 <!-- - **IT Automation with Python** Professional Certificate by _Google/Coursera_ -->
 <!-- - **Project Management: Professional Certificate** by _Google/Coursera_ -->
 <!-- - **Algorithms Specialization** by _Stanford/Coursera_ -->
 
-- **Open Source Software Development, Linux and Git Specialization** by _THe Linux Foundation_
+<!-- - **Open Source Software Development, Linux and Git Specialization** by _The Linux Foundation_ -->
 
-## Projects
+<!-- ## Projects -->
 
-- [**Pothole Detection System**](https://github.com/danielvelara/ChaleBache-rn), Fall 2021
-  - Built and deployed a mobile application using **React Native + Expo** for users to detect potholes while driving using their smartphone sensors
-  - Created a WebApp using **HTML/CSS/JS/React** using **Google Maps API** for displaying multiple potholes detected in a city.
-- [**Covid-19 Vaccination Simulation**](https://github.com/danielvelara/CovidVaccinationSimulation), Summer 2021
-  - Built an Agent-based modeling simulation using **Python3** and **Mesa Framework** for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks.
-- [**ToDo's online service**](https://github.com/danielvelara/SlackyToDo), Summer 2020
-  - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service.
-
-## Currently Learning
-
-- Elixir + Phoenix
+<!-- - [**Pothole Detection System**](https://github.com/danielvelara/ChaleBache-rn), Fall 2021 -->
+<!--   - Built and deployed a mobile application using **React Native + Expo** for users to detect potholes while driving using their smartphone sensors -->
+<!--   - Created a WebApp using **HTML/CSS/JS/React** using **Google Maps API** for displaying multiple potholes detected in a city. -->
+<!-- - [**Covid-19 Vaccination Simulation**](https://github.com/danielvelara/CovidVaccinationSimulation), Summer 2021 -->
+<!--   - Built an Agent-based modeling simulation using **Python3** and **Mesa Framework** for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks. -->
+<!-- - [**ToDo's online service**](https://github.com/danielvelara/SlackyToDo), Summer 2020 -->
+<!--   - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service. -->
 
 ## PGP Public Key
 

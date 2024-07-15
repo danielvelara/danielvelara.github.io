@@ -3,6 +3,7 @@ title: "LaTeX"
 date: 2022-09-26T17:54:46-05:00
 author: Daniel Velázquez
 math: true
+draft: true
 ---
 
 > You can embed KaTeX/LaTeX in Hugo

@@ -2,7 +2,7 @@
 title: "Create diagrams as code with Mermaid"
 date: 2022-09-26T12:46:08-05:00
 author: Daniel Velázquez
-draft: false
+draft: true
 tags: ["mermaid", "hugo"]
 ---
 

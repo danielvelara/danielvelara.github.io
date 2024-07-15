@@ -10,11 +10,11 @@ enableRobotsTXT: true
 
 menu:
   main:
-    - identifier: tags
-      name: Tags
-      title: Tags
-      url: /tags/
-      weight: 3
+    # - identifier: tags
+    #   name: Tags
+    #   title: Tags
+    #   url: /tags/
+    #   weight: 3
     - identifier: about
       name: About me
       title: About me
