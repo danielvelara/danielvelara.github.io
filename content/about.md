@@ -1,7 +1,7 @@
 ---
 title: "About me"
 description: "Description about myself"
-date: "2023-11-22"
+date: "2024-07-16"
 # aliases: ["about-us", "about-hugo", "contact"]
 # author: "Hugo Authors"
 # tags: ["personal"]
