@@ -53,7 +53,7 @@ date: "2023-11-22"
 ## Education
 
 - [**Instituto Tecnológico y de Estudios Superiores de Monterrey**](https://certificados.tec.mx/certificate/8306f2d6b56a576ba10a016b77a68c0f) (ITESM) - Guadalajara, Jalisco, México
-  > _B.S. Engineer’s Degree in Computer Systems Engineering_ | August 2018 - June 2022
+  > _B.S. Engineer’s Degree in Computer Systems Engineering_ | Fall 2022
 - **42 University Silicon Valley** - Fremont, California, USA
   > _C Piscine_ | Winter 2020
 
