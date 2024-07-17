@@ -69,8 +69,7 @@
 &lt;/a>
 &lt;/span>
 &lt;/h2>&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Programming Languages&lt;/strong>&lt;/p>
+&lt;li>&lt;strong>Programming Languages&lt;/strong>
 &lt;ul>
 &lt;li>Elixir&lt;/li>
 &lt;li>Go&lt;/li>
@@ -80,25 +79,66 @@
 &lt;li>Bash&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Technologies&lt;/strong>&lt;/p>
+&lt;li>&lt;strong>WebDev&lt;/strong>:
 &lt;ul>
-&lt;li>Frontend: HTML5, CSS3, TailwindCSS, React/Native/NextJS, LiveView&lt;/li>
-&lt;li>Backend: Phoenix/LiveView, FastAPI, AWS Lambda&lt;/li>
-&lt;li>Databases: PostgreSQL, SQLite, MongoDB, Ecto&lt;/li>
-&lt;li>Data: Job Scheduling, MapReduce, Queues&lt;/li>
-&lt;li>Testing: TDD, Jest/Vitest, Playwright, ExUnit&lt;/li>
-&lt;li>DevOps: GNU/Linux, Docker, Nix, AWS, Serverless, CI/CD, GitHub Actions&lt;/li>
+&lt;li>Phoenix/LiveView&lt;/li>
+&lt;li>React/Native/NextJS&lt;/li>
+&lt;li>FastAPI&lt;/li>
+&lt;li>TailwindCSS&lt;/li>
+&lt;li>HTML5/CSS3&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Tools &amp;amp; Knowledge&lt;/strong>&lt;/p>
+&lt;li>&lt;strong>Databases&lt;/strong>:
 &lt;ul>
-&lt;li>Git/GitHub/GitFlow&lt;/li>
-&lt;li>Project Management: Agile/Scrum, Jira&lt;/li>
-&lt;li>Networking: REST API&amp;rsquo;s, OpenAPI/Swagger, WebSockets&lt;/li>
-&lt;li>Data Structures &amp;amp; Algorithms&lt;/li>
-&lt;li>Security: HTTPS, OAuth2 &amp;amp; OpenID Connect, OWASP Top 10&lt;/li>
+&lt;li>PostgreSQL/PostGIS/TimescaleDB&lt;/li>
+&lt;li>MongoDB&lt;/li>
+&lt;li>Ecto&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Data&lt;/strong>:
+&lt;ul>
+&lt;li>Data ingestion and Data processing pipelines (Broadway)&lt;/li>
+&lt;li>Job Scheduling (Oban)&lt;/li>
+&lt;li>Queues&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Networking&lt;/strong>:
+&lt;ul>
+&lt;li>REST API&amp;rsquo;s&lt;/li>
+&lt;li>WebSockets&lt;/li>
+&lt;li>GraphQL/Absinthe&lt;/li>
+&lt;li>OpenAPI/Swagger&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Security&lt;/strong>:
+&lt;ul>
+&lt;li>JWT&lt;/li>
+&lt;li>OAuth/OIDC&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Testing&lt;/strong>:
+&lt;ul>
+&lt;li>TDD&lt;/li>
+&lt;li>Playwright&lt;/li>
+&lt;li>ExUnit/Wallaby&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>DevOps&lt;/strong>:
+&lt;ul>
+&lt;li>GNU/Linux&lt;/li>
+&lt;li>Docker&lt;/li>
+&lt;li>Nix&lt;/li>
+&lt;li>AWS&lt;/li>
+&lt;li>Serverless/Lambda&lt;/li>
+&lt;li>Grafana&lt;/li>
+&lt;li>CI/CD&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Other&lt;/strong>:
+&lt;ul>
+&lt;li>Git/GitHub&lt;/li>
+&lt;li>Figma&lt;/li>
+&lt;li>Agile/Scrum&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
