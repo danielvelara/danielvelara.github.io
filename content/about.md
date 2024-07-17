@@ -28,7 +28,7 @@ date: "2023-11-22"
 
   > _Software Solution Engineer_ | October 2023 - **Present**
 
-  - Development and productionalization of custom-made proprietary ML/AI applications delivering clear business value for a variety of industries (Energy Management, Demand Forecasting, Process Optimization) while establishing communication with key stakeholders (task planning, requirement clarification, presentations) and close collaboration with Data Engineers, Data Scientists, DevOps, QA, Designers and Project Managers
+  - Productionalization of custom-made proprietary ML/AI applications delivering clear business value for a variety of industries (Energy Management, Demand Forecasting, Process Optimization) while establishing communication with key stakeholders (task planning, requirement clarification, presentations) and close collaboration with Data Engineers, Data Scientists, DevOps, QA, Designers and Project Managers
 
 - **SoftServe** - Guadalajara, Jalisco, México
 
