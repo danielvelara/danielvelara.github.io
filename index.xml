@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>/</link><description>danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>/about/</link><pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h2 id="experience" >Experience
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>danielvelara</title><link>/</link><description>danielvelara</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Sep 2022 23:04:47 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>/about/</link><pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;h2 id="education" >Education
+&lt;span>
+&lt;a href="#education">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://certificados.tec.mx/certificate/8306f2d6b56a576ba10a016b77a68c0f">&lt;strong>Instituto Tecnológico y de Estudios Superiores de Monterrey&lt;/strong>&lt;/a> (&lt;strong>ITESM&lt;/strong>) - Guadalajara, Jalisco, México
+&lt;blockquote>
+&lt;p>&lt;em>B.S. Engineer’s Degree in Computer Systems Engineering&lt;/em> | Fall 2022&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;strong>42 University Silicon Valley&lt;/strong> - Fremont, California, USA
+&lt;blockquote>
+&lt;p>&lt;em>C Piscine&lt;/em> | Winter 2020&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="experience" >Experience
 &lt;span>
 &lt;a href="#experience">
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
@@ -40,26 +58,8 @@
 &lt;p>&lt;em>Software Engineering Academic Apprenticeship&lt;/em> | March 2021 - June 2021&lt;/p>
 &lt;/blockquote>
 &lt;ul>
-&lt;li>Helped the Analytics Team to refactor &lt;strong>Jupyter Notebooks&lt;/strong> into a microservice with &lt;strong>Python/FastAPI&lt;/strong> and deployed using &lt;strong>Docker&lt;/strong> by analyzing critical parts of the codebase and making a fully working internal service.&lt;/li>
+&lt;li>Helped the Analytics Team refactor &lt;strong>Jupyter Notebooks&lt;/strong> into a microservice with &lt;strong>Python/FastAPI&lt;/strong> and deployed using &lt;strong>Docker&lt;/strong> by analyzing critical parts of the codebase and making a fully working internal service.&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="education" >Education
-&lt;span>
-&lt;a href="#education">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;ul>
-&lt;li>&lt;a href="https://certificados.tec.mx/certificate/8306f2d6b56a576ba10a016b77a68c0f">&lt;strong>Instituto Tecnológico y de Estudios Superiores de Monterrey&lt;/strong>&lt;/a> (ITESM) - Guadalajara, Jalisco, México
-&lt;blockquote>
-&lt;p>&lt;em>B.S. Engineer’s Degree in Computer Systems Engineering&lt;/em> | Fall 2022&lt;/p>
-&lt;/blockquote>
-&lt;/li>
-&lt;li>&lt;strong>42 University Silicon Valley&lt;/strong> - Fremont, California, USA
-&lt;blockquote>
-&lt;p>&lt;em>C Piscine&lt;/em> | Winter 2020&lt;/p>
-&lt;/blockquote>
 &lt;/li>
 &lt;/ul>
 &lt;h2 id="technical-skills" >Technical Skills
@@ -88,15 +88,10 @@
 &lt;li>HTML5/CSS3&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;strong>Databases&lt;/strong>:
+&lt;li>&lt;strong>Data/Databases&lt;/strong>:
 &lt;ul>
 &lt;li>PostgreSQL/PostGIS/TimescaleDB&lt;/li>
 &lt;li>MongoDB&lt;/li>
-&lt;li>Ecto&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;strong>Data&lt;/strong>:
-&lt;ul>
 &lt;li>Data ingestion and Data processing pipelines (Broadway)&lt;/li>
 &lt;li>Job Scheduling (Oban)&lt;/li>
 &lt;li>Queues&lt;/li>
@@ -123,7 +118,7 @@
 &lt;li>ExUnit/Wallaby&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;strong>DevOps&lt;/strong>:
+&lt;li>&lt;strong>DevOps/Cloud&lt;/strong>:
 &lt;ul>
 &lt;li>GNU/Linux&lt;/li>
 &lt;li>Docker&lt;/li>
