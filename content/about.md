@@ -22,6 +22,13 @@ date: "2024-07-16"
 #     weight: 10
 ---
 
+## Education
+
+- [**Instituto Tecnológico y de Estudios Superiores de Monterrey**](https://certificados.tec.mx/certificate/8306f2d6b56a576ba10a016b77a68c0f) (**ITESM**) - Guadalajara, Jalisco, México
+  > _B.S. Engineer’s Degree in Computer Systems Engineering_ | Fall 2022
+- **42 University Silicon Valley** - Fremont, California, USA
+  > _C Piscine_ | Winter 2020
+
 ## Experience
 
 - **C3.ai** - Guadalajara, Jalisco, México
@@ -48,14 +55,7 @@ date: "2024-07-16"
 
   > _Software Engineering Academic Apprenticeship_ | March 2021 - June 2021
 
-  - Helped the Analytics Team to refactor **Jupyter Notebooks** into a microservice with **Python/FastAPI** and deployed using **Docker** by analyzing critical parts of the codebase and making a fully working internal service.
-
-## Education
-
-- [**Instituto Tecnológico y de Estudios Superiores de Monterrey**](https://certificados.tec.mx/certificate/8306f2d6b56a576ba10a016b77a68c0f) (ITESM) - Guadalajara, Jalisco, México
-  > _B.S. Engineer’s Degree in Computer Systems Engineering_ | Fall 2022
-- **42 University Silicon Valley** - Fremont, California, USA
-  > _C Piscine_ | Winter 2020
+  - Helped the Analytics Team refactor **Jupyter Notebooks** into a microservice with **Python/FastAPI** and deployed using **Docker** by analyzing critical parts of the codebase and making a fully working internal service.
 
 ## Technical Skills
 
@@ -72,11 +72,9 @@ date: "2024-07-16"
   - FastAPI
   - TailwindCSS
   - HTML5/CSS3 
-- **Databases**:
+- **Data/Databases**:
   - PostgreSQL/PostGIS/TimescaleDB
   - MongoDB
-  - Ecto
-- **Data**:
   - Data ingestion and Data processing pipelines (Broadway)
   - Job Scheduling (Oban)
   - Queues
@@ -92,7 +90,7 @@ date: "2024-07-16"
   - TDD
   - Playwright
   - ExUnit/Wallaby
-- **DevOps**:
+- **DevOps/Cloud**:
   - GNU/Linux
   - Docker
   - Nix
