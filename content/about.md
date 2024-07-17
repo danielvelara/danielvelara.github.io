@@ -66,21 +66,44 @@ date: "2023-11-22"
   - JavaScript
   - SQL
   - Bash
-- **Technologies**
-
-  - Frontend: HTML5, CSS3, TailwindCSS, React/Native/NextJS, LiveView
-  - Backend: Phoenix/LiveView, FastAPI, AWS Lambda
-  - Databases: PostgreSQL, SQLite, MongoDB, Ecto
-  - Data: Job Scheduling, MapReduce, Queues
-  - Testing: TDD, Jest/Vitest, Playwright, ExUnit
-  - DevOps: GNU/Linux, Docker, Nix, AWS, Serverless, CI/CD, GitHub Actions
-
-- **Tools & Knowledge**
-  - Git/GitHub/GitFlow
-  - Project Management: Agile/Scrum, Jira
-  - Networking: REST API's, OpenAPI/Swagger, WebSockets
-  - Data Structures & Algorithms
-  - Security: HTTPS, OAuth2 & OpenID Connect, OWASP Top 10
+- **WebDev**: 
+  - Phoenix/LiveView
+  - React/Native/NextJS
+  - FastAPI
+  - TailwindCSS
+  - HTML5/CSS3 
+- **Databases**:
+  - PostgreSQL/PostGIS/TimescaleDB
+  - MongoDB
+  - Ecto
+- **Data**:
+  - Data ingestion and Data processing pipelines (Broadway)
+  - Job Scheduling (Oban)
+  - Queues
+- **Networking**:
+  - REST API's
+  - WebSockets
+  - GraphQL/Absinthe
+  - OpenAPI/Swagger
+- **Security**:
+  - JWT
+  - OAuth/OIDC
+- **Testing**:
+  - TDD
+  - Playwright
+  - ExUnit/Wallaby
+- **DevOps**:
+  - GNU/Linux
+  - Docker
+  - Nix
+  - AWS
+  - Serverless/Lambda
+  - Grafana
+  - CI/CD
+- **Other**:
+  - Git/GitHub
+  - Figma
+  - Agile/Scrum
 
 ## Languages
 
