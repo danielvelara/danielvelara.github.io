@@ -7,4 +7,4 @@ date: 2022-09-21T23:04:47-05:00
 
 ### Want to  read more [about me](https://danielvelara.github.io/about/)?
 
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120"> -->
+### [My Arch Linux ~/.dotfiles](https://github.com/danielvelara/.dotfiles)
