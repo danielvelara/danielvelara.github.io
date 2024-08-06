@@ -147,20 +147,19 @@
 &lt;li>Spanish (Native)&lt;/li>
 &lt;li>English (Business fluent)&lt;/li>
 &lt;/ul>
-&lt;!-- ## Relevant Coursework &amp; Certifications -->
-&lt;!-- - **AWS Certified Developer Associate** by _AWS Training and Certification_ -->
-&lt;!-- - **IT Automation with Python** Professional Certificate by _Google/Coursera_ -->
-&lt;!-- - **Project Management: Professional Certificate** by _Google/Coursera_ -->
-&lt;!-- - **Algorithms Specialization** by _Stanford/Coursera_ -->
-&lt;!-- - **Open Source Software Development, Linux and Git Specialization** by _The Linux Foundation_ -->
+&lt;h2 id="relevant-coursework--certifications" >Relevant Coursework &amp;amp; Certifications
+&lt;span>
+&lt;a href="#relevant-coursework--certifications">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>AWS Certified Developer Associate&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>IT Automation with Python&lt;/strong> Professional Certificate by &lt;em>Google/Coursera&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Project Management: Professional Certificate&lt;/strong> by &lt;em>Google/Coursera&lt;/em>&lt;/li>
+&lt;li>&lt;strong>Open Source Software Development, Linux and Git Specialization&lt;/strong> by &lt;em>The Linux Foundation&lt;/em>&lt;/li>
+&lt;/ul>
 &lt;!-- ## Projects -->
-&lt;!-- - [**Pothole Detection System**](https://github.com/danielvelara/ChaleBache-rn), Fall 2021 -->
-&lt;!-- - Built and deployed a mobile application using **React Native + Expo** for users to detect potholes while driving using their smartphone sensors -->
-&lt;!-- - Created a WebApp using **HTML/CSS/JS/React** using **Google Maps API** for displaying multiple potholes detected in a city. -->
-&lt;!-- - [**Covid-19 Vaccination Simulation**](https://github.com/danielvelara/CovidVaccinationSimulation), Summer 2021 -->
-&lt;!-- - Built an Agent-based modeling simulation using **Python3** and **Mesa Framework** for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks. -->
-&lt;!-- - [**ToDo's online service**](https://github.com/danielvelara/SlackyToDo), Summer 2020 -->
-&lt;!-- - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service. -->
 &lt;h2 id="pgp-public-key" >PGP Public Key
 &lt;span>
 &lt;a href="#pgp-public-key">
