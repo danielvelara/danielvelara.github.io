@@ -108,24 +108,14 @@ date: "2024-07-16"
 - Spanish (Native)
 - English (Business fluent)
 
-<!-- ## Relevant Coursework & Certifications -->
+## Relevant Coursework & Certifications
 
-<!-- - **AWS Certified Developer Associate** by _AWS Training and Certification_ -->
-<!-- - **IT Automation with Python** Professional Certificate by _Google/Coursera_ -->
-<!-- - **Project Management: Professional Certificate** by _Google/Coursera_ -->
-<!-- - **Algorithms Specialization** by _Stanford/Coursera_ -->
-
-<!-- - **Open Source Software Development, Linux and Git Specialization** by _The Linux Foundation_ -->
+- **AWS Certified Developer Associate**
+- **IT Automation with Python** Professional Certificate by _Google/Coursera_
+- **Project Management: Professional Certificate** by _Google/Coursera_
+- **Open Source Software Development, Linux and Git Specialization** by _The Linux Foundation_
 
 <!-- ## Projects -->
-
-<!-- - [**Pothole Detection System**](https://github.com/danielvelara/ChaleBache-rn), Fall 2021 -->
-<!--   - Built and deployed a mobile application using **React Native + Expo** for users to detect potholes while driving using their smartphone sensors -->
-<!--   - Created a WebApp using **HTML/CSS/JS/React** using **Google Maps API** for displaying multiple potholes detected in a city. -->
-<!-- - [**Covid-19 Vaccination Simulation**](https://github.com/danielvelara/CovidVaccinationSimulation), Summer 2021 -->
-<!--   - Built an Agent-based modeling simulation using **Python3** and **Mesa Framework** for simulating how the Covid-19 virus would spread depending on multiple variables such as vaccination, population density, age, mobility, social distancing, and use of face masks. -->
-<!-- - [**ToDo's online service**](https://github.com/danielvelara/SlackyToDo), Summer 2020 -->
-<!--   - Implemented a CRUD WebApp using the **MVC** Pattern with **Python/Flask** (Backend) and **HTML/CSS/Vanilla JS** (frontend) with User Authentication/Authorization/Sessions with **Firebase** + **SQLite** as the backend database for the service. -->
 
 ## PGP Public Key
 
